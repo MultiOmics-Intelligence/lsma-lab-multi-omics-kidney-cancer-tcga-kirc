@@ -86,7 +86,7 @@ Both were fixed in the lab's code, and the results in this repository come from 
 - The multi-omics module now removes sex-chromosome probes from methylation layers (a new setting, on by default).
 - DIABLO now drops such genes within a fold instead of stopping.
 
-The fix is being released to the lab, so students will get the same corrected behaviour. The before-and-after comparison is in the Validation section. This is the purpose of the series: running real data from start to finish finds the weak points, and the fixes reach every student.
+The fix is now live in the lab (25 November 2026), so students get the same corrected behaviour. The before-and-after comparison is in the Validation section. This is the purpose of the series: running real data from start to finish finds the weak points, and the fixes reach every student.
 
 ---
 
