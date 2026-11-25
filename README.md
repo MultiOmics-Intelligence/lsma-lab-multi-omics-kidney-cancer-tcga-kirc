@@ -232,7 +232,7 @@ Each feature $f$ of a layer is standardised to mean 0 and standard deviation 1, 
 **Mantel test.** Do two layers agree about which patients are alike?
 
 $$
-r_M = \operatorname{Spearman}\left( d^{(a)}_{ij},\  d^{(b)}_{ij} \right)_{i<j}, \qquad p = \frac{b + 1}{B + 1}
+r_M = \mathrm{Spearman}\left( d^{(a)}_{ij},\  d^{(b)}_{ij} \right)_{i<j}, \qquad p = \frac{b + 1}{B + 1}
 $$
 
 $r_M$ is the Spearman correlation between the patient distances of layers $a$ and $b$, over all pairs of patients. For the p-value the patients of one layer are shuffled $B = 499$ times, and $b$ counts the shuffles with a correlation at least as large as the real one.
@@ -270,7 +270,7 @@ with $P^{(v)}$ normalised again after each round. The fused network is the avera
 **Spectral clustering and the eigengap rule.**
 
 $$
-L = I - D^{-1/2} W D^{-1/2}, \qquad \hat{k} = \underset{k \in \lbrace 2, \dots, 8 \rbrace}{\operatorname{arg\ max}} \left( \lambda_{k+1} - \lambda_k \right)
+L = I - D^{-1/2} W D^{-1/2}, \qquad \hat{k} = \underset{k \in \lbrace 2, \dots, 8 \rbrace}{\arg\max} \left( \lambda_{k+1} - \lambda_k \right)
 $$
 
 $W$ is the fused network, $D$ the diagonal matrix of its row sums and $\lambda_1 \le \lambda_2 \le \dots$ the eigenvalues of the normalised Laplacian $L$. A large gap after $\lambda_k$ suggests $k$ groups. The patients are then grouped using the first $\hat{k}$ eigenvectors. The silhouette $s(i) = (b_i - a_i)/\max(a_i, b_i)$, where $a_i$ and $b_i$ are the mean distances of patient $i$ to its own group and to the nearest other group, measures how clearly the groups separate.
@@ -286,7 +286,7 @@ At each time of death $t$, $n_t$ patients are still followed ($n_{1t}$ and $n_{2
 **DIABLO (block sparse PLS-DA).** For each component,
 
 $$
-\max_{a_1, \dots, a_4} \sum_{i < j} c_{ij} \operatorname{cov}\left( X_i a_i,\  X_j a_j \right) \quad \text{subject to} \quad \lVert a_i \rVert_2 = 1, \ \  \lVert a_i \rVert_1 \le \lambda_i
+\max_{a_1, \dots, a_4} \sum_{i < j} c_{ij} \mathrm{cov}\left( X_i a_i,\  X_j a_j \right) \quad \text{subject to} \quad \lVert a_i \rVert_2 = 1, \ \  \lVert a_i \rVert_1 \le \lambda_i
 $$
 
 $X_1, X_2, X_3$ are the three layers and $X_4$ is the outcome (vital status, coded as indicator columns). $c_{ij} = 0.1$ between two layers and $c_{ij} = 1$ between a layer and the outcome, so the model favours separating the groups over agreement between layers. The L1 limit $\lambda_i$ is set so that 15 features per layer have a non-zero weight. RGCCA in the comparison maximises the same kind of sum with all layers linked ($c_{ij} = 1$), no outcome and no sparsity.
