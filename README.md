@@ -217,6 +217,96 @@ Every step below is a stage in the LSMA Analysis Lab, run with the settings in [
 
 **Software:** R 4.5.2 and Bioconductor 3.21, with MOFA2 (mofapy2), SNFtool, mixOmics, cluster and survival, in the versions listed in the settings file.
 
+## The mathematics behind the methods
+
+The formulas below are the ones the lab's code applies, with the settings of this run. $n = 100$ patients and $m = 3$ layers.
+
+**Distances between patients.** Used by the Mantel test and by SNF.
+
+$$
+d_{ij} = \frac{1}{\sqrt{p}} \left\lVert z_i - z_j \right\rVert_2, \qquad z_{fi} = \frac{x_{fi} - \bar{x}_f}{s_f}
+$$
+
+Each feature $f$ of a layer is standardised to mean 0 and standard deviation 1, and $d_{ij}$ is the Euclidean distance between patients $i$ and $j$ over the layer's $p$ features, scaled so that a layer with more features does not give larger distances.
+
+**Mantel test.** Do two layers agree about which patients are alike?
+
+$$
+r_M = \operatorname{Spearman}\left( d^{(a)}_{ij},\  d^{(b)}_{ij} \right)_{i<j}, \qquad p = \frac{b + 1}{B + 1}
+$$
+
+$r_M$ is the Spearman correlation between the patient distances of layers $a$ and $b$, over all pairs of patients. For the p-value the patients of one layer are shuffled $B = 499$ times, and $b$ counts the shuffles with a correlation at least as large as the real one.
+
+**Associations between layers.** For two continuous layers, the Spearman correlation $r$ of every pair of features is tested with
+
+$$
+t = r \sqrt{\frac{n - 2}{1 - r^2}}
+$$
+
+on $n - 2$ degrees of freedom. For a mutated gene against a continuous feature, the Wilcoxon rank-sum test compares the patients with and without the mutation. P-values are corrected by Benjamini–Hochberg within each pair of layers.
+
+**MOFA factors.**
+
+$$
+Y^{(m)} = Z  W^{(m)\top} + \varepsilon^{(m)}, \qquad R^2_{m,k} = 1 - \frac{\sum_{i,f} \left( y^{(m)}_{if} - z_{ik}  w^{(m)}_{fk} \right)^2}{\sum_{i,f} \left( y^{(m)}_{if} \right)^2}
+$$
+
+$Y^{(m)}$ is layer $m$ (patients by features), $Z$ holds the patients' values on the shared factors and $W^{(m)}$ the weights of each feature on them; $\varepsilon^{(m)}$ is the noise. Expression and methylation are standardised and modelled as Gaussian; the yes/no mutation layer uses a Bernoulli likelihood, in which the factors set the log-odds of a mutation. $R^2_{m,k}$ (shown for the centred continuous layers) is the share of layer $m$ explained by factor $k$; factors explaining less than 1% were dropped during training. Each factor is then linked to the sample sheet by the $R^2$ of a linear model or ANOVA, with Benjamini–Hochberg correction.
+
+**Similarity network fusion (SNF).** Each layer first becomes a network of patients:
+
+$$
+W_{ij} = \frac{1}{\sigma \varepsilon_{ij} \sqrt{2\pi}} \exp\left( -\frac{d_{ij}^2}{2\sigma^2 \varepsilon_{ij}^2} \right), \qquad \varepsilon_{ij} = \frac{\bar{d}_i + \bar{d}_j + d_{ij}}{3}
+$$
+
+$`\bar{d}_i`$ is the mean distance of patient $i$ to its $K = 20$ nearest neighbours and $\sigma = 0.5$, so the kernel adapts to how crowded each patient's neighbourhood is. Each $W$ is normalised to $P$ ($`P_{ii} = 1/2`$, the rest of each row summing to $1/2$), and $S$ keeps only each patient's $K$ nearest neighbours. The layers then exchange information for $t = 20$ rounds:
+
+$$
+P^{(v)} \leftarrow S^{(v)} \left( \frac{1}{m - 1} \sum_{k \ne v} P^{(k)} \right) S^{(v)\top}
+$$
+
+with $P^{(v)}$ normalised again after each round. The fused network is the average of the $P^{(v)}$, normalised once more.
+
+**Spectral clustering and the eigengap rule.**
+
+$$
+L = I - D^{-1/2} W D^{-1/2}, \qquad \hat{k} = \underset{k \in \lbrace 2, \dots, 8 \rbrace}{\operatorname{arg\ max}} \left( \lambda_{k+1} - \lambda_k \right)
+$$
+
+$W$ is the fused network, $D$ the diagonal matrix of its row sums and $\lambda_1 \le \lambda_2 \le \dots$ the eigenvalues of the normalised Laplacian $L$. A large gap after $\lambda_k$ suggests $k$ groups. The patients are then grouped using the first $\hat{k}$ eigenvectors. The silhouette $s(i) = (b_i - a_i)/\max(a_i, b_i)$, where $a_i$ and $b_i$ are the mean distances of patient $i$ to its own group and to the nearest other group, measures how clearly the groups separate.
+
+**Log-rank test.** For two groups,
+
+$$
+\chi^2 = \frac{\left( \sum_t (O_{1t} - E_{1t}) \right)^2}{\sum_t V_t}, \qquad E_{1t} = d_t \frac{n_{1t}}{n_t}, \qquad V_t = \frac{n_{1t}  n_{2t}  d_t  (n_t - d_t)}{n_t^2  (n_t - 1)}
+$$
+
+At each time of death $t$, $n_t$ patients are still followed ($n_{1t}$ and $n_{2t}$ in each group), $d_t$ die, and $O_{1t}$ of the deaths are in group 1. $\chi^2$ is compared with a chi-squared distribution on 1 degree of freedom.
+
+**DIABLO (block sparse PLS-DA).** For each component,
+
+$$
+\max_{a_1, \dots, a_4} \sum_{i < j} c_{ij} \operatorname{cov}\left( X_i a_i,\  X_j a_j \right) \quad \text{subject to} \quad \lVert a_i \rVert_2 = 1, \ \  \lVert a_i \rVert_1 \le \lambda_i
+$$
+
+$X_1, X_2, X_3$ are the three layers and $X_4$ is the outcome (vital status, coded as indicator columns). $c_{ij} = 0.1$ between two layers and $c_{ij} = 1$ between a layer and the outcome, so the model favours separating the groups over agreement between layers. The L1 limit $\lambda_i$ is set so that 15 features per layer have a non-zero weight. RGCCA in the comparison maximises the same kind of sum with all layers linked ($c_{ij} = 1$), no outcome and no sparsity.
+
+**Balanced error rate and its permutation p-value.**
+
+$$
+\text{BER} = \frac{1}{G} \sum_{g=1}^{G} \frac{\text{errors in group } g}{n_g}, \qquad p = \frac{b + 1}{B + 1}
+$$
+
+The BER is the mean of the error rates of the $G = 2$ groups, so the larger group cannot hide errors in the smaller one; it is measured by 5-fold cross-validation repeated 10 times, at the better of the two components. The labels were shuffled $B = 50$ times, and $b$ counts the shuffles whose best BER is at least as low as the real one.
+
+**Adjusted Rand index.** How alike two groupings of the same patients are.
+
+$$
+\text{ARI} = \frac{\sum_{ij} \binom{n_{ij}}{2} - E}{\tfrac{1}{2}\left( \sum_i \binom{a_i}{2} + \sum_j \binom{b_j}{2} \right) - E}, \qquad E = \frac{\sum_i \binom{a_i}{2} \sum_j \binom{b_j}{2}}{\binom{n}{2}}
+$$
+
+$n_{ij}$ counts the patients in group $i$ of one grouping and group $j$ of the other, and $a_i$ and $b_j$ are the group sizes. The index is 1 for identical groupings and about 0 for agreement no better than chance.
+
 ---
 
 ## Validation
