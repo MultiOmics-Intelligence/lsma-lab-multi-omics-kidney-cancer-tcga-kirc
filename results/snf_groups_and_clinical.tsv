@@ -1,0 +1,5 @@
+column	p_value	adjusted_rand_index	padj
+vital_status	0.00051911	0.17377	0.0020764
+stage	0.0019996	0.14289	0.0039992
+primary_diagnosis	0.22276	-0.056892	0.29314
+gender	0.29314	-0.0073764	0.29314

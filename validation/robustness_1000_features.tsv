@@ -1,0 +1,9 @@
+measure	main	robustness
+Features per continuous layer	2000	1000.0
+MOFA factor 1 vs factor 1 (correlation across patients)		0.99
+MOFA factor 2 vs factor 2		0.99
+SNF groups (eigengap rule)	2	3.0
+Agreement of SNF groups (adjusted Rand index)		0.55
+Survival difference between SNF groups (log-rank p)	0.00058	6.2e-05
+DIABLO balanced error (vital status)	0.281	0.277
+DIABLO permutation p-value	0.02	0.02

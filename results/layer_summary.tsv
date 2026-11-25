@@ -1,0 +1,4 @@
+layer	type	patients_in_layer	features_in_file	features_with_missing_values	sex_chromosome_features_removed	features_used	rule
+expression	continuous	100	5000	0	0	2000	the 2,000 most variable
+methylation	continuous	100	5000	0	1824	2000	the 2,000 most variable
+mutations	binary	100	154	0	0	32	present in at least 5 and absent in at least 5 patients

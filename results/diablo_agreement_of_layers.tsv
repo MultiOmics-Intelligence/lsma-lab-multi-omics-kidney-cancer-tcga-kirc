@@ -1,0 +1,4 @@
+layer_1	layer_2	correlation_of_component_1
+expression	methylation	0.82702
+expression	mutations	0.46297
+methylation	mutations	0.42304

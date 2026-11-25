@@ -1,0 +1,1501 @@
+layer_1	feature_1	layer_2	feature_2	effect	effect_is	p_value	padj
+expression	PPP1R1A	methylation	cg12483545	0.57948	Spearman correlation	2.6717e-10	2.6717e-06
+expression	SLPI	methylation	cg12483545	0.56476	Spearman correlation	9.3361e-10	4.6681e-06
+expression	SAA1	methylation	cg12483545	0.55381	Spearman correlation	2.277e-09	7.59e-06
+expression	SAA1	methylation	cg15167871	0.5382	Spearman correlation	7.6949e-09	1.9237e-05
+expression	SCGN	methylation	cg12483545	-0.52552	Spearman correlation	1.9771e-08	3.3943e-05
+expression	LBP	methylation	cg23192683	-0.52511	Spearman correlation	2.0366e-08	3.3943e-05
+expression	RPS4Y1	methylation	cg04646987	-0.51726	Spearman correlation	3.5834e-08	5.1191e-05
+expression	PRIMA1	methylation	cg19308375	-0.51273	Spearman correlation	4.9307e-08	5.7723e-05
+expression	KRT19	methylation	cg08840441	0.51198	Spearman correlation	5.195e-08	5.7723e-05
+expression	SAA1	methylation	cg08840441	0.50648	Spearman correlation	7.6028e-08	7.6028e-05
+expression	CP	methylation	cg19308375	-0.50445	Spearman correlation	8.7329e-08	7.939e-05
+expression	SLC5A8	methylation	cg12483545	-0.50261	Spearman correlation	9.8986e-08	8.2488e-05
+expression	PPP1R1A	methylation	cg08840441	0.49755	Spearman correlation	1.3912e-07	0.00010702
+expression	XIST	methylation	cg04646987	0.49463	Spearman correlation	1.6879e-07	0.00012056
+expression	HP	methylation	cg08840441	0.48769	Spearman correlation	2.6561e-07	0.00017708
+expression	SLC6A19	methylation	cg15167871	-0.48342	Spearman correlation	3.495e-07	0.00021844
+expression	SLC6A19	methylation	cg01885839	-0.48118	Spearman correlation	4.0292e-07	0.00023469
+expression	LBP	methylation	cg08840441	0.48043	Spearman correlation	4.2245e-07	0.00023469
+expression	SLC6A3	methylation	cg12483545	-0.47659	Spearman correlation	5.3742e-07	0.00028285
+expression	SLC6A19	methylation	cg19092981	-0.47576	Spearman correlation	5.6603e-07	0.00028301
+expression	SAA1	methylation	cg05098566	-0.47234	Spearman correlation	6.9918e-07	0.0003228
+expression	FOSB	methylation	cg01885839	-0.47209	Spearman correlation	7.1015e-07	0.0003228
+expression	HP	methylation	cg12483545	0.46743	Spearman correlation	9.4359e-07	0.00041026
+expression	FGA	methylation	cg23192683	-0.46358	Spearman correlation	1.1899e-06	0.00048893
+expression	PRIMA1	methylation	cg23192683	-0.46313	Spearman correlation	1.2223e-06	0.00048893
+expression	CP	methylation	cg23192683	-0.46202	Spearman correlation	1.3061e-06	0.00050236
+expression	SLC5A8	methylation	cg01885839	-0.45991	Spearman correlation	1.4806e-06	0.00054837
+expression	MMP7	methylation	cg12483545	0.45901	Spearman correlation	1.5615e-06	0.00055767
+expression	SLC5A1	methylation	cg08840441	-0.45831	Spearman correlation	1.6268e-06	0.00056098
+expression	HP	methylation	cg15167871	0.45613	Spearman correlation	1.8491e-06	0.00060749
+expression	SAA1	methylation	cg23192683	-0.45528	Spearman correlation	1.9429e-06	0.00060749
+expression	DDX3Y	methylation	cg04646987	-0.45527	Spearman correlation	1.944e-06	0.00060749
+expression	KRT223P	methylation	cg19308375	-0.45211	Spearman correlation	2.3353e-06	0.00070766
+expression	AOC1	methylation	cg08409113	-0.44804	Spearman correlation	2.949e-06	0.0008671
+expression	LBP	methylation	cg05098566	-0.44754	Spearman correlation	3.0348e-06	0.0008671
+expression	SLPI	methylation	cg08840441	0.44498	Spearman correlation	3.5081e-06	0.00097447
+expression	FGG	methylation	cg23192683	-0.44296	Spearman correlation	3.9312e-06	0.0010625
+expression	CP	methylation	cg05098566	-0.44021	Spearman correlation	4.5825e-06	0.0011755
+expression	AOC1	methylation	cg01885839	-0.4402	Spearman correlation	4.5844e-06	0.0011755
+expression	SCGN	methylation	cg25789370	-0.43935	Spearman correlation	4.8064e-06	0.0012016
+expression	HP	methylation	cg05098566	-0.43778	Spearman correlation	5.2443e-06	0.0012745
+expression	LBP	methylation	cg12483545	0.4374	Spearman correlation	5.353e-06	0.0012745
+expression	SLC6A19	methylation	cg05098566	0.43503	Spearman correlation	6.0967e-06	0.0014178
+expression	KDM5D	methylation	cg04646987	-0.43432	Spearman correlation	6.3392e-06	0.0014407
+expression	IGHGP	methylation	cg05098566	-0.43365	Spearman correlation	6.5757e-06	0.0014613
+expression	RPS4Y1	methylation	cg17561891	-0.4332	Spearman correlation	6.7365e-06	0.0014645
+expression	PCK1	methylation	cg08840441	-0.43248	Spearman correlation	7.0079e-06	0.001491
+expression	SLC6A3	methylation	cg01885839	-0.43082	Spearman correlation	7.6647e-06	0.0015968
+expression	PPP1R1A	methylation	cg15167871	0.43035	Spearman correlation	7.86e-06	0.0016041
+expression	SLC5A8	methylation	cg19092981	-0.42858	Spearman correlation	8.647e-06	0.0017294
+expression	HP	methylation	cg19308375	-0.42761	Spearman correlation	9.1056e-06	0.0017854
+expression	SORCS3	methylation	cg19308375	-0.42664	Spearman correlation	9.5893e-06	0.0018441
+expression	SLC5A8	methylation	cg08840441	-0.42542	Spearman correlation	1.0232e-05	0.0019257
+expression	SLC22A12	methylation	cg05098566	0.42511	Spearman correlation	1.0399e-05	0.0019257
+expression	IGHGP	methylation	cg12483545	0.4241	Spearman correlation	1.0973e-05	0.001995
+expression	NPTX2	methylation	cg19308375	-0.42328	Spearman correlation	1.1458e-05	0.0020461
+expression	USP9Y	methylation	cg17561891	-0.42285	Spearman correlation	1.1719e-05	0.0020559
+expression	IGKV1-5	methylation	cg05098566	-0.42123	Spearman correlation	1.2758e-05	0.0021996
+expression	IGHGP	methylation	cg08840441	0.42083	Spearman correlation	1.3026e-05	0.0022077
+expression	REN	methylation	cg01925738	-0.41889	Spearman correlation	1.4415e-05	0.0024015
+expression	KRT223P	methylation	cg05098566	-0.41833	Spearman correlation	1.4837e-05	0.0024015
+expression	CYP4A11	methylation	cg12483545	-0.41827	Spearman correlation	1.4889e-05	0.0024015
+expression	REN	methylation	cg12483545	-0.41606	Spearman correlation	1.6688e-05	0.002649
+expression	CYP4A11	methylation	cg08840441	-0.41513	Spearman correlation	1.75e-05	0.0027344
+expression	LBP	methylation	cg19092981	0.41285	Spearman correlation	1.9669e-05	0.0029887
+expression	SLC5A1	methylation	cg12483545	-0.41279	Spearman correlation	1.9725e-05	0.0029887
+expression	KRT223P	methylation	cg15167871	0.41005	Spearman correlation	2.2675e-05	0.0033843
+expression	PRIMA1	methylation	cg05098566	-0.40892	Spearman correlation	2.4001e-05	0.0035295
+expression	USP9Y	methylation	cg04646987	-0.40839	Spearman correlation	2.4644e-05	0.0035715
+expression	DDX3Y	methylation	cg17561891	-0.40798	Spearman correlation	2.5157e-05	0.0035909
+expression	HP	methylation	cg23192683	-0.40772	Spearman correlation	2.5495e-05	0.0035909
+expression	NEFL	methylation	cg12483545	0.40682	Spearman correlation	2.667e-05	0.0037042
+expression	XIST	methylation	cg17561891	0.40624	Spearman correlation	2.7444e-05	0.0037594
+expression	IGHG1	methylation	cg08840441	0.40569	Spearman correlation	2.8215e-05	0.0038128
+expression	GSTA2	methylation	cg25780607	0.40487	Spearman correlation	2.9384e-05	0.0039178
+expression	IGKC	methylation	cg08840441	0.40394	Spearman correlation	3.078e-05	0.00405
+expression	MIOX	methylation	cg19308375	0.40365	Spearman correlation	3.122e-05	0.0040546
+expression	KDM5D	methylation	cg17561891	-0.40328	Spearman correlation	3.1799e-05	0.0040767
+expression	LBP	methylation	cg15167871	0.40267	Spearman correlation	3.2764e-05	0.0041474
+expression	KRT19	methylation	cg19308375	-0.40189	Spearman correlation	3.405e-05	0.0042563
+expression	SST	methylation	cg01885839	-0.4016	Spearman correlation	3.4548e-05	0.0042652
+expression	PNCK	methylation	cg00281273	-0.40086	Spearman correlation	3.5819e-05	0.0043285
+expression	LBP	methylation	cg16017089	0.4008	Spearman correlation	3.5927e-05	0.0043285
+expression	SAA1	methylation	cg01885839	0.40029	Spearman correlation	3.683e-05	0.0043502
+expression	MYEOV	methylation	cg19308375	-0.40021	Spearman correlation	3.6977e-05	0.0043502
+expression	IGKC	methylation	cg12483545	0.39845	Spearman correlation	4.0293e-05	0.0046852
+expression	SPOCK1	methylation	cg19308375	-0.39795	Spearman correlation	4.129e-05	0.0047372
+expression	FGA	methylation	cg05098566	-0.39775	Spearman correlation	4.1687e-05	0.0047372
+expression	SLC22A6	methylation	cg08840441	-0.3966	Spearman correlation	4.4074e-05	0.0049353
+expression	SLC22A12	methylation	cg15167871	-0.39644	Spearman correlation	4.4418e-05	0.0049353
+expression	SCGN	methylation	cg01885839	-0.39596	Spearman correlation	4.5476e-05	0.0049974
+expression	KRT19	methylation	cg15167871	0.39453	Spearman correlation	4.8698e-05	0.0052862
+expression	SPOCK1	methylation	cg23192683	-0.39426	Spearman correlation	4.9337e-05	0.0052862
+expression	IGHG2	methylation	cg05098566	-0.39411	Spearman correlation	4.9691e-05	0.0052862
+expression	IGLC2	methylation	cg05098566	-0.39299	Spearman correlation	5.2435e-05	0.0054865
+expression	SPOCK1	methylation	cg01893212	0.3929	Spearman correlation	5.2671e-05	0.0054865
+expression	GSTA2	methylation	cg26880493	0.39132	Spearman correlation	5.6778e-05	0.0058334
+expression	HABP2	methylation	cg05098566	-0.39113	Spearman correlation	5.7299e-05	0.0058334
+expression	AC079466.1	methylation	cg19351954	0.39097	Spearman correlation	5.7751e-05	0.0058334
+expression	SLC6A19	methylation	cg08840441	-0.39071	Spearman correlation	5.8457e-05	0.0058375
+expression	SCGN	methylation	cg08840441	-0.39053	Spearman correlation	5.8959e-05	0.0058375
+expression	SCGN	methylation	cg09776772	-0.39023	Spearman correlation	5.98e-05	0.0058628
+expression	CDH4	methylation	cg00494919	-0.39002	Spearman correlation	6.0409e-05	0.005865
+expression	IGLC3	methylation	cg05098566	-0.38926	Spearman correlation	6.2616e-05	0.0060208
+expression	GSTA1	methylation	cg25780607	0.38802	Spearman correlation	6.6375e-05	0.0063215
+expression	SLC6A19	methylation	cg15084390	0.38711	Spearman correlation	6.9283e-05	0.0064563
+expression	NEFL	methylation	cg23192683	-0.38698	Spearman correlation	6.9717e-05	0.0064563
+expression	LBP	methylation	cg19308375	-0.38691	Spearman correlation	6.9945e-05	0.0064563
+expression	FABP7	methylation	cg25789370	-0.38676	Spearman correlation	7.0427e-05	0.0064563
+expression	HABP2	methylation	cg15167871	0.38658	Spearman correlation	7.102e-05	0.0064563
+expression	SAA1	methylation	cg14204784	-0.38566	Spearman correlation	7.4145e-05	0.0066625
+expression	NEFL	methylation	cg08840441	0.38553	Spearman correlation	7.462e-05	0.0066625
+expression	PPP1R1A	methylation	cg23192683	-0.38442	Spearman correlation	7.8561e-05	0.0069523
+expression	IGHM	methylation	cg05098566	-0.38367	Spearman correlation	8.1366e-05	0.0071373
+expression	IGKC	methylation	cg05098566	-0.3833	Spearman correlation	8.2759e-05	0.0071964
+expression	RPS4Y1	methylation	cg17176732	-0.3811	Spearman correlation	9.1599e-05	0.007866
+expression	SLC22A12	methylation	cg23192683	0.381	Spearman correlation	9.2032e-05	0.007866
+expression	GC	methylation	cg10400707	0.37999	Spearman correlation	9.6409e-05	0.0081702
+expression	SAA1	methylation	cg19092981	0.37946	Spearman correlation	9.8784e-05	0.0083012
+expression	LGALS4	methylation	cg16783349	0.37924	Spearman correlation	9.9776e-05	0.0083147
+expression	DDX3Y	methylation	cg17176732	-0.378	Spearman correlation	0.00010561	0.0087281
+expression	PLG	methylation	cg08840441	-0.37743	Spearman correlation	0.0001084	0.0088413
+expression	IGHG3	methylation	cg08840441	0.37735	Spearman correlation	0.00010875	0.0088413
+expression	IGLC3	methylation	cg12483545	0.37715	Spearman correlation	0.00010976	0.0088517
+expression	SLC5A1	methylation	cg19092981	-0.3765	Spearman correlation	0.00011306	0.0090451
+expression	SLC5A1	methylation	cg23192683	0.37567	Spearman correlation	0.00011736	0.0092831
+expression	SLC34A2	methylation	cg19308375	-0.37557	Spearman correlation	0.0001179	0.0092831
+expression	SLC13A1	methylation	cg19664267	0.37465	Spearman correlation	0.00012289	0.0095033
+expression	IGHG1	methylation	cg05098566	-0.37455	Spearman correlation	0.00012348	0.0095033
+expression	PIGR	methylation	cg16783349	-0.37435	Spearman correlation	0.00012458	0.0095033
+expression	PRIMA1	methylation	cg04646987	-0.37415	Spearman correlation	0.00012569	0.0095033
+expression	SAA1	methylation	cg09776772	0.37415	Spearman correlation	0.00012572	0.0095033
+expression	FGB	methylation	cg23192683	-0.37403	Spearman correlation	0.00012639	0.0095033
+expression	SPOCK1	methylation	cg08840441	0.37365	Spearman correlation	0.0001286	0.0095565
+expression	SLC6A19	methylation	cg23192683	0.37357	Spearman correlation	0.00012901	0.0095565
+expression	LRP2	methylation	cg01885839	-0.373	Spearman correlation	0.00013239	0.0097347
+expression	CUBN	methylation	cg15084390	0.37252	Spearman correlation	0.00013526	0.0098732
+expression	IGHG2	methylation	cg08840441	0.37201	Spearman correlation	0.00013835	0.010026
+expression	IGLV3-21	methylation	cg12483545	0.37086	Spearman correlation	0.00014565	0.010479
+expression	HABP2	methylation	cg23192683	-0.36983	Spearman correlation	0.00015249	0.010892
+expression	MMP7	methylation	cg15167871	0.36959	Spearman correlation	0.00015411	0.01093
+expression	SLPI	methylation	cg15167871	0.36772	Spearman correlation	0.00016736	0.011786
+expression	CDH4	methylation	cg15084390	0.36686	Spearman correlation	0.00017386	0.012158
+expression	UGT1A9	methylation	cg19664267	0.36655	Spearman correlation	0.00017628	0.01216
+expression	MYEOV	methylation	cg23192683	-0.36654	Spearman correlation	0.00017631	0.01216
+expression	UGT1A9	methylation	cg21333861	0.36634	Spearman correlation	0.00017785	0.012182
+expression	PLG	methylation	cg12483545	-0.36616	Spearman correlation	0.00017932	0.012198
+expression	FABP7	methylation	cg00281273	-0.36579	Spearman correlation	0.00018219	0.01231
+expression	IGLC2	methylation	cg08840441	0.36517	Spearman correlation	0.0001872	0.012545
+expression	PRIMA1	methylation	cg08840441	0.36505	Spearman correlation	0.00018818	0.012545
+expression	GSTA1	methylation	cg21333861	0.36397	Spearman correlation	0.00019726	0.013063
+expression	UGT1A9	methylation	cg15084390	0.36333	Spearman correlation	0.0002029	0.013336
+expression	IGHG3	methylation	cg05098566	-0.36299	Spearman correlation	0.00020588	0.013336
+expression	IGHM	methylation	cg08840441	0.36296	Spearman correlation	0.0002061	0.013336
+expression	SLC22A12	methylation	cg08840441	-0.36282	Spearman correlation	0.0002074	0.013336
+expression	PCK1	methylation	cg12483545	-0.36275	Spearman correlation	0.00020804	0.013336
+expression	PPP1R1A	methylation	cg07141605	0.36179	Spearman correlation	0.00021688	0.013814
+expression	PROM1	methylation	cg00281273	-0.36093	Spearman correlation	0.00022504	0.014243
+expression	SLC6A3	methylation	cg25789370	-0.36	Spearman correlation	0.00023425	0.014674
+expression	KRT19	methylation	cg12483545	0.35989	Spearman correlation	0.00023534	0.014674
+expression	LRP2	methylation	cg15084390	0.3598	Spearman correlation	0.00023624	0.014674
+expression	NEFL	methylation	cg15167871	0.35918	Spearman correlation	0.00024266	0.014979
+expression	CUBN	methylation	cg08840441	-0.35894	Spearman correlation	0.00024511	0.015038
+expression	FGG	methylation	cg05098566	-0.35854	Spearman correlation	0.00024944	0.01521
+expression	SLC17A3	methylation	cg19664267	0.35823	Spearman correlation	0.00025274	0.015232
+expression	KRT223P	methylation	cg23192683	-0.35822	Spearman correlation	0.00025286	0.015232
+expression	PLG	methylation	cg04571941	-0.35804	Spearman correlation	0.00025476	0.015255
+expression	MMP7	methylation	cg23192683	-0.35713	Spearman correlation	0.00026483	0.015764
+expression	CUBN	methylation	cg25780607	0.35676	Spearman correlation	0.00026906	0.015921
+expression	ENPP3	methylation	cg15084390	0.35644	Spearman correlation	0.00027278	0.016046
+expression	HMGCS2	methylation	cg12483545	-0.35604	Spearman correlation	0.00027742	0.016223
+expression	HABP2	methylation	cg08840441	0.35544	Spearman correlation	0.00028456	0.016544
+expression	CYP4A11	methylation	cg19664267	0.35488	Spearman correlation	0.00029139	0.016838
+expression	SLC5A1	methylation	cg15084390	0.35475	Spearman correlation	0.00029298	0.016838
+expression	USP9Y	methylation	cg17176732	-0.35421	Spearman correlation	0.00029968	0.017125
+expression	IGLV3-21	methylation	cg08840441	0.35394	Spearman correlation	0.00030318	0.017219
+expression	JCHAIN	methylation	cg05098566	-0.35381	Spearman correlation	0.00030478	0.017219
+expression	IGHG4	methylation	cg10130446	-0.35359	Spearman correlation	0.00030763	0.017282
+expression	IGLV3-19	methylation	cg05098566	-0.35344	Spearman correlation	0.00030959	0.017295
+expression	IGLC2	methylation	cg19308375	-0.35271	Spearman correlation	0.00031926	0.017737
+expression	SLC5A8	methylation	cg15084390	0.35242	Spearman correlation	0.00032314	0.017853
+expression	KDM5D	methylation	cg17176732	-0.35189	Spearman correlation	0.00033046	0.018157
+expression	IGLC3	methylation	cg08840441	0.3512	Spearman correlation	0.00034005	0.018582
+expression	IGLV3-21	methylation	cg05098566	-0.3509	Spearman correlation	0.00034432	0.018713
+expression	SLC5A12	methylation	cg00494919	-0.35071	Spearman correlation	0.00034714	0.018764
+expression	HMGCS2	methylation	cg19092981	-0.3503	Spearman correlation	0.00035313	0.018985
+expression	HP	methylation	cg11104088	0.35013	Spearman correlation	0.0003556	0.019016
+expression	SLC22A6	methylation	cg12483545	-0.34962	Spearman correlation	0.00036324	0.019257
+expression	LUM	methylation	cg25789370	0.34957	Spearman correlation	0.00036396	0.019257
+expression	SLC22A12	methylation	cg12483545	-0.34941	Spearman correlation	0.00036633	0.019266
+expression	SLC22A2	methylation	cg00494919	-0.34912	Spearman correlation	0.00037087	0.019266
+expression	CDH4	methylation	cg25780607	0.3491	Spearman correlation	0.0003711	0.019266
+expression	SLC13A1	methylation	cg21333861	0.34905	Spearman correlation	0.00037184	0.019266
+expression	CDH4	methylation	cg09776772	-0.34854	Spearman correlation	0.00037986	0.01958
+expression	KRT223P	methylation	cg08840441	0.34805	Spearman correlation	0.00038762	0.019868
+expression	IGHM	methylation	cg12483545	0.34794	Spearman correlation	0.00038942	0.019868
+expression	MSLN	methylation	cg03189821	-0.34745	Spearman correlation	0.00039739	0.020088
+expression	FGA	methylation	cg12483545	0.3474	Spearman correlation	0.00039818	0.020088
+expression	IGHGP	methylation	cg12908916	-0.3473	Spearman correlation	0.00039976	0.020088
+expression	PNCK	methylation	cg19308375	-0.34643	Spearman correlation	0.00041434	0.020717
+expression	CYP4A11	methylation	cg01885839	-0.34628	Spearman correlation	0.00041692	0.020741
+expression	IGHV3-23	methylation	cg05098566	-0.34613	Spearman correlation	0.00041958	0.020741
+expression	IGHG4	methylation	cg12483545	0.34604	Spearman correlation	0.00042105	0.020741
+expression	SCGN	methylation	cg05348366	-0.34575	Spearman correlation	0.00042605	0.020855
+expression	SLC17A3	methylation	cg08840441	-0.34567	Spearman correlation	0.00042752	0.020855
+expression	FOSB	methylation	cg15167871	-0.34519	Spearman correlation	0.0004361	0.02117
+expression	IGHG3	methylation	cg12483545	0.34467	Spearman correlation	0.00044531	0.021477
+expression	FOSB	methylation	cg05098566	0.3446	Spearman correlation	0.00044672	0.021477
+expression	SLC5A1	methylation	cg25780607	0.34441	Spearman correlation	0.00045014	0.021538
+expression	DCN	methylation	cg25789370	0.34362	Spearman correlation	0.00046492	0.022139
+expression	IGHG2	methylation	cg12483545	0.3435	Spearman correlation	0.00046719	0.022142
+expression	PPP1R1A	methylation	cg09776772	0.34306	Spearman correlation	0.00047569	0.022438
+expression	PCK1	methylation	cg05098566	0.34292	Spearman correlation	0.00047836	0.022458
+expression	KRT223P	methylation	cg01893212	0.34268	Spearman correlation	0.00048293	0.022567
+expression	IGHG3	methylation	cg19308375	-0.34186	Spearman correlation	0.0004993	0.023223
+expression	VNN1	methylation	cg12019614	-0.34148	Spearman correlation	0.00050712	0.023478
+expression	FGB	methylation	cg12483545	0.34105	Spearman correlation	0.00051594	0.023776
+expression	LGALS4	methylation	cg05348366	-0.34033	Spearman correlation	0.00053115	0.024364
+expression	IGKV3-20	methylation	cg05098566	-0.34004	Spearman correlation	0.00053743	0.02454
+expression	LRP2	methylation	cg21333861	0.33958	Spearman correlation	0.00054732	0.024793
+expression	SLPI	methylation	cg19308375	-0.33953	Spearman correlation	0.00054856	0.024793
+expression	SPON1	methylation	cg04646987	0.33944	Spearman correlation	0.00055042	0.024793
+expression	HABP2	methylation	cg19308375	-0.33926	Spearman correlation	0.00055443	0.024862
+expression	KRT223P	methylation	cg16783349	0.33915	Spearman correlation	0.00055697	0.024865
+expression	NDNF	methylation	cg23192683	-0.33855	Spearman correlation	0.00057042	0.025352
+expression	CUBN	methylation	cg01885839	-0.33735	Spearman correlation	0.00059844	0.02648
+expression	REN	methylation	cg14204784	0.33707	Spearman correlation	0.00060535	0.026667
+expression	SLC5A8	methylation	cg04646987	0.33652	Spearman correlation	0.0006186	0.027059
+expression	IGHG1	methylation	cg12483545	0.33642	Spearman correlation	0.00062117	0.027059
+expression	SCGN	methylation	cg14204784	0.33637	Spearman correlation	0.00062235	0.027059
+expression	PPP1R1A	methylation	cg19092981	0.33621	Spearman correlation	0.00062635	0.027115
+expression	SLC6A19	methylation	cg16783349	-0.3358	Spearman correlation	0.00063653	0.027437
+expression	SLPI	methylation	cg23192683	-0.33548	Spearman correlation	0.00064466	0.027538
+expression	UGT1A9	methylation	cg19351954	0.33542	Spearman correlation	0.00064632	0.027538
+expression	IGHG1	methylation	cg14204784	-0.33539	Spearman correlation	0.00064714	0.027538
+expression	LRP2	methylation	cg20256117	0.33512	Spearman correlation	0.00065394	0.027695
+expression	FGA	methylation	cg12019614	-0.33503	Spearman correlation	0.00065638	0.027695
+expression	CYP4A11	methylation	cg21333861	0.33481	Spearman correlation	0.00066196	0.027813
+expression	IGLC3	methylation	cg19308375	-0.33467	Spearman correlation	0.00066582	0.027859
+expression	SLC22A2	methylation	cg01885839	-0.3345	Spearman correlation	0.00067028	0.027928
+expression	PLG	methylation	cg09776772	-0.33436	Spearman correlation	0.00067397	0.027966
+expression	MIOX	methylation	cg08840441	-0.33377	Spearman correlation	0.00068992	0.028509
+expression	FGA	methylation	cg18141400	-0.33293	Spearman correlation	0.00071306	0.029344
+expression	LRP2	methylation	cg19664267	0.33229	Spearman correlation	0.00073106	0.029961
+expression	LGALS4	methylation	cg06546677	0.33215	Spearman correlation	0.00073508	0.030003
+expression	IGHV5-51	methylation	cg12019614	-0.33175	Spearman correlation	0.00074689	0.030361
+expression	SPON1	methylation	cg10220809	-0.33161	Spearman correlation	0.00075091	0.030401
+expression	MIOX	methylation	cg25780607	0.33103	Spearman correlation	0.0007681	0.030972
+expression	SLC22A2	methylation	cg19092981	-0.33084	Spearman correlation	0.00077366	0.031071
+expression	SLC6A19	methylation	cg12483545	-0.33073	Spearman correlation	0.00077714	0.031086
+expression	IGLV3-1	methylation	cg05098566	-0.33056	Spearman correlation	0.0007824	0.031171
+expression	IGHG4	methylation	cg08840441	0.33038	Spearman correlation	0.00078776	0.03118
+expression	MMP7	methylation	cg08840441	0.33035	Spearman correlation	0.00078886	0.03118
+expression	PCK1	methylation	cg15167871	-0.33014	Spearman correlation	0.00079531	0.031311
+expression	SLC22A12	methylation	cg19308375	0.32976	Spearman correlation	0.0008071	0.031588
+expression	SLC22A2	methylation	cg00281273	-0.32964	Spearman correlation	0.00081065	0.031588
+expression	SLC13A1	methylation	cg25780607	0.32961	Spearman correlation	0.00081182	0.031588
+expression	IGLV2-23	methylation	cg05098566	-0.32894	Spearman correlation	0.00083308	0.03229
+expression	MMP7	methylation	cg19308375	-0.32846	Spearman correlation	0.00084891	0.032677
+expression	GSTA2	methylation	cg06546677	0.32842	Spearman correlation	0.0008501	0.032677
+expression	IGHGP	methylation	cg23192683	-0.32824	Spearman correlation	0.00085587	0.032677
+expression	SAA1	methylation	cg08322244	0.32824	Spearman correlation	0.00085614	0.032677
+expression	ALDOB	methylation	cg19664267	0.328	Spearman correlation	0.00086416	0.032858
+expression	CERNA2	methylation	cg00281273	-0.32765	Spearman correlation	0.00087585	0.033055
+expression	DDX3Y	methylation	cg00281273	-0.32764	Spearman correlation	0.00087595	0.033055
+expression	MTND4P12	methylation	cg08941173	-0.32682	Spearman correlation	0.0009043	0.033946
+expression	CUBN	methylation	cg00494919	-0.32676	Spearman correlation	0.00090635	0.033946
+expression	PPP1R1A	methylation	cg01754525	0.32607	Spearman correlation	0.00093058	0.034617
+expression	SLC6A19	methylation	cg25780607	0.32598	Spearman correlation	0.00093405	0.034617
+expression	MYEOV	methylation	cg08840441	0.32595	Spearman correlation	0.00093491	0.034617
+expression	HP	methylation	cg01885839	0.32576	Spearman correlation	0.00094182	0.034617
+expression	RBP4	methylation	cg01893212	-0.32574	Spearman correlation	0.00094259	0.034617
+expression	SLC5A1	methylation	cg01754525	-0.32567	Spearman correlation	0.00094505	0.034617
+expression	SLPI	methylation	cg25789370	0.32523	Spearman correlation	0.00096104	0.03495
+expression	PCK1	methylation	cg01885839	-0.32515	Spearman correlation	0.00096418	0.03495
+expression	REN	methylation	cg08840441	-0.32514	Spearman correlation	0.00096462	0.03495
+expression	SLC22A2	methylation	cg15084390	0.32495	Spearman correlation	0.0009717	0.035079
+expression	IGKV4-1	methylation	cg05098566	-0.32467	Spearman correlation	0.00098201	0.035267
+expression	LRP2	methylation	cg14288281	0.32462	Spearman correlation	0.00098396	0.035267
+expression	CUBN	methylation	cg17176732	0.32403	Spearman correlation	0.0010061	0.035867
+expression	SLC5A1	methylation	cg01885839	-0.32398	Spearman correlation	0.001008	0.035867
+expression	MIOX	methylation	cg19092981	-0.3239	Spearman correlation	0.0010115	0.035867
+expression	FGB	methylation	cg18141400	-0.32276	Spearman correlation	0.0010561	0.03719
+expression	SLC17A3	methylation	cg21333861	0.32276	Spearman correlation	0.0010562	0.03719
+expression	SLC5A8	methylation	cg15167871	-0.32256	Spearman correlation	0.0010643	0.037343
+expression	LGALS4	methylation	cg19351954	0.32244	Spearman correlation	0.0010688	0.037372
+expression	SLC6A19	methylation	cg08409113	-0.32235	Spearman correlation	0.0010727	0.037378
+expression	CYP4A11	methylation	cg19092981	-0.32213	Spearman correlation	0.0010816	0.037555
+expression	HMGCS2	methylation	cg08840441	-0.32188	Spearman correlation	0.0010918	0.037777
+expression	PCK1	methylation	cg19092981	-0.32121	Spearman correlation	0.0011201	0.038623
+expression	SPOCK1	methylation	cg12483545	0.32083	Spearman correlation	0.0011362	0.03904
+expression	SLC22A12	methylation	cg01885839	-0.32067	Spearman correlation	0.0011429	0.03904
+expression	REN	methylation	cg04277327	-0.32064	Spearman correlation	0.0011445	0.03904
+expression	SLC6A19	methylation	cg04646987	0.32056	Spearman correlation	0.0011478	0.03904
+expression	IGKC	methylation	cg19308375	-0.32046	Spearman correlation	0.0011522	0.039059
+expression	CP	methylation	cg12019614	-0.3201	Spearman correlation	0.001168	0.039458
+expression	MIOX	methylation	cg15167871	-0.31986	Spearman correlation	0.0011785	0.039682
+expression	LUM	methylation	cg08840441	0.31958	Spearman correlation	0.0011909	0.039836
+expression	IGLV3-1	methylation	cg19308375	-0.31957	Spearman correlation	0.0011911	0.039836
+expression	LRP2	methylation	cg08840441	-0.31947	Spearman correlation	0.0011957	0.039857
+expression	IGLC2	methylation	cg07376381	0.31935	Spearman correlation	0.0012013	0.03991
+expression	IGHV5-51	methylation	cg05098566	-0.31923	Spearman correlation	0.0012067	0.039958
+expression	IGHG1	methylation	cg23192683	-0.31912	Spearman correlation	0.0012114	0.039982
+expression	ENPP3	methylation	cg22731271	0.31866	Spearman correlation	0.0012328	0.040552
+expression	IGLV3-19	methylation	cg07376381	0.31796	Spearman correlation	0.0012653	0.041204
+expression	MSLN	methylation	cg22046408	-0.31785	Spearman correlation	0.0012707	0.041204
+expression	GRIA4	methylation	cg15532640	0.3178	Spearman correlation	0.0012727	0.041204
+expression	AOC1	methylation	cg23097686	-0.3178	Spearman correlation	0.0012729	0.041204
+expression	SLC5A12	methylation	cg12483545	-0.31778	Spearman correlation	0.0012739	0.041204
+expression	SLC6A3	methylation	cg15084390	0.31771	Spearman correlation	0.0012773	0.041204
+expression	ENPP3	methylation	cg08322244	-0.3174	Spearman correlation	0.0012923	0.041554
+expression	IGKC	methylation	cg14204784	-0.31726	Spearman correlation	0.0012987	0.041625
+expression	SFRP2	methylation	cg19308375	-0.31712	Spearman correlation	0.0013056	0.041714
+expression	NEFL	methylation	cg25789370	0.31663	Spearman correlation	0.0013298	0.042177
+expression	SLC34A2	methylation	cg23192683	-0.31663	Spearman correlation	0.0013298	0.042177
+expression	JCHAIN	methylation	cg08840441	0.31657	Spearman correlation	0.0013328	0.042177
+expression	SPON1	methylation	cg01885839	-0.31603	Spearman correlation	0.0013598	0.042896
+expression	XIST	methylation	cg17176732	0.3159	Spearman correlation	0.0013664	0.042933
+expression	USP9Y	methylation	cg00281273	-0.31583	Spearman correlation	0.0013696	0.042933
+expression	LBP	methylation	cg14204784	-0.31542	Spearman correlation	0.001391	0.043152
+expression	GSTA2	methylation	cg21333861	0.31539	Spearman correlation	0.0013924	0.043152
+expression	IGHG4	methylation	cg05098566	-0.31533	Spearman correlation	0.0013953	0.043152
+expression	IGHA2	methylation	cg05098566	-0.3153	Spearman correlation	0.0013972	0.043152
+expression	SLC6A3	methylation	cg04277327	-0.31528	Spearman correlation	0.0013981	0.043152
+expression	HP	methylation	cg19092981	0.31497	Spearman correlation	0.0014143	0.043518
+expression	MTND4P12	methylation	cg11738485	-0.31488	Spearman correlation	0.0014187	0.04352
+expression	HABP2	methylation	cg19092981	0.31471	Spearman correlation	0.0014276	0.043573
+expression	SYT13	methylation	cg08322244	0.31468	Spearman correlation	0.0014292	0.043573
+expression	PLG	methylation	cg25780607	0.31436	Spearman correlation	0.0014465	0.043965
+expression	IGHGP	methylation	cg15084390	-0.31428	Spearman correlation	0.0014508	0.043965
+expression	REG1A	methylation	cg12744031	-0.31406	Spearman correlation	0.0014623	0.044179
+expression	GC	methylation	cg07141605	0.31379	Spearman correlation	0.0014773	0.044496
+expression	SLC6A19	methylation	cg19664267	0.31334	Spearman correlation	0.0015017	0.045095
+expression	SLC5A8	methylation	cg19308375	0.31307	Spearman correlation	0.0015167	0.045275
+expression	IGLV3-19	methylation	cg19308375	-0.31307	Spearman correlation	0.0015167	0.045275
+expression	SLC6A3	methylation	cg23192683	0.31276	Spearman correlation	0.0015339	0.045605
+expression	PPP1R1A	methylation	cg19308375	-0.31271	Spearman correlation	0.0015369	0.045605
+expression	GDA	methylation	cg16389901	0.31262	Spearman correlation	0.0015418	0.045616
+expression	SLC5A1	methylation	cg05098566	0.31226	Spearman correlation	0.0015625	0.046078
+expression	GRIA4	methylation	cg01885839	-0.31219	Spearman correlation	0.0015666	0.046078
+expression	SLC22A2	methylation	cg12483545	-0.31174	Spearman correlation	0.0015923	0.046679
+expression	GSTA2	methylation	cg00494919	-0.31164	Spearman correlation	0.0015981	0.046679
+expression	CERNA2	methylation	cg04646987	-0.31159	Spearman correlation	0.0016011	0.046679
+expression	GC	methylation	cg08322244	0.31143	Spearman correlation	0.0016107	0.046692
+expression	SLC22A12	methylation	cg19092981	-0.31143	Spearman correlation	0.0016109	0.046692
+expression	IGKC	methylation	cg25789370	0.31113	Spearman correlation	0.0016283	0.047062
+expression	FGA	methylation	cg15167871	0.31104	Spearman correlation	0.0016339	0.047087
+expression	REG1A	methylation	cg11104088	0.3104	Spearman correlation	0.0016723	0.048053
+expression	LBP	methylation	cg11104088	0.31021	Spearman correlation	0.001684	0.048155
+expression	REN	methylation	cg15167871	-0.31017	Spearman correlation	0.0016866	0.048155
+expression	SLC6A3	methylation	cg19092981	-0.31005	Spearman correlation	0.0016936	0.048155
+expression	IGHGP	methylation	cg19308375	-0.30998	Spearman correlation	0.0016981	0.048155
+expression	PIGR	methylation	cg08409113	-0.30995	Spearman correlation	0.0016999	0.048155
+expression	REG1A	methylation	cg00281273	-0.30959	Spearman correlation	0.0017222	0.048407
+expression	FOSB	methylation	cg12483545	-0.3095	Spearman correlation	0.001728	0.048407
+expression	IGKV1-5	methylation	cg08840441	0.30946	Spearman correlation	0.0017303	0.048407
+expression	SLPI	methylation	cg01885839	0.30943	Spearman correlation	0.0017321	0.048407
+expression	IGLC3	methylation	cg07376381	0.30935	Spearman correlation	0.0017373	0.048407
+expression	IGLV1-40	methylation	cg05098566	-0.30931	Spearman correlation	0.0017396	0.048407
+expression	NDNF	methylation	cg15167871	0.30927	Spearman correlation	0.0017427	0.048407
+expression	IGLC3	methylation	cg15084390	-0.30878	Spearman correlation	0.0017736	0.048686
+expression	SAA1	methylation	cg19308375	-0.30862	Spearman correlation	0.0017842	0.048686
+expression	SCGN	methylation	cg19308375	0.30861	Spearman correlation	0.0017844	0.048686
+expression	IGKV3-20	methylation	cg08840441	0.3086	Spearman correlation	0.0017852	0.048686
+expression	AC079466.1	methylation	cg16783349	0.30853	Spearman correlation	0.00179	0.048686
+expression	IGHG1	methylation	cg19308375	-0.3085	Spearman correlation	0.0017914	0.048686
+expression	SLC22A2	methylation	cg08840441	-0.30848	Spearman correlation	0.0017931	0.048686
+expression	AC079466.1	methylation	cg05098566	-0.30843	Spearman correlation	0.0017959	0.048686
+expression	SLC5A8	methylation	cg05098566	0.30843	Spearman correlation	0.0017965	0.048686
+expression	SAA1	methylation	cg18430555	0.30825	Spearman correlation	0.0018078	0.04886
+expression	PPP1R1A	methylation	cg01885839	0.30782	Spearman correlation	0.0018363	0.049355
+expression	IGHGP	methylation	cg19664267	-0.30769	Spearman correlation	0.0018446	0.049355
+expression	C7	methylation	cg19351954	-0.30768	Spearman correlation	0.0018454	0.049355
+expression	UGT1A9	methylation	cg05348366	-0.30767	Spearman correlation	0.0018459	0.049355
+expression	RPS4Y1	methylation	cg25780607	-0.30759	Spearman correlation	0.0018512	0.049366
+expression	MTND4P12	methylation	cg23097686	0.30749	Spearman correlation	0.0018581	0.049418
+expression	PLG	methylation	cg19092981	-0.30674	Spearman correlation	0.0019089	0.050634
+expression	AC079466.1	methylation	cg15167871	0.30656	Spearman correlation	0.0019216	0.050702
+expression	IGLV2-23	methylation	cg18141400	-0.30655	Spearman correlation	0.0019224	0.050702
+expression	RPS4Y1	methylation	cg00281273	-0.30646	Spearman correlation	0.0019282	0.050702
+expression	LUM	methylation	cg12483545	0.30638	Spearman correlation	0.001934	0.050702
+expression	SLPI	methylation	cg14204784	-0.3063	Spearman correlation	0.0019394	0.050702
+expression	IGHA1	methylation	cg05098566	-0.30627	Spearman correlation	0.0019419	0.050702
+expression	CYP4A11	methylation	cg04277327	-0.30586	Spearman correlation	0.0019706	0.051318
+expression	IGHG4	methylation	cg14204784	-0.30537	Spearman correlation	0.0020052	0.051783
+expression	KDM5D	methylation	cg25780607	-0.30534	Spearman correlation	0.0020071	0.051783
+expression	IGHGP	methylation	cg14204784	-0.30525	Spearman correlation	0.0020138	0.051783
+expression	SLC17A3	methylation	cg25789370	-0.30519	Spearman correlation	0.0020181	0.051783
+expression	SPON1	methylation	cg27449836	-0.30515	Spearman correlation	0.0020214	0.051783
+expression	GDA	methylation	cg21333861	0.30514	Spearman correlation	0.0020215	0.051783
+expression	SLC4A1	methylation	cg20256117	-0.30504	Spearman correlation	0.002029	0.051783
+expression	LGALS4	methylation	cg26880493	0.30503	Spearman correlation	0.0020299	0.051783
+expression	SCGN	methylation	cg15084390	0.30493	Spearman correlation	0.0020372	0.051837
+expression	SLC22A6	methylation	cg25789370	-0.30485	Spearman correlation	0.0020425	0.051841
+expression	CUBN	methylation	cg19092981	-0.30463	Spearman correlation	0.0020592	0.052033
+expression	PRIMA1	methylation	cg19092981	0.30454	Spearman correlation	0.0020657	0.052033
+expression	CUBN	methylation	cg19664267	0.30454	Spearman correlation	0.0020657	0.052033
+expression	SLC13A1	methylation	cg08840441	-0.30429	Spearman correlation	0.002084	0.052361
+expression	SLC22A12	methylation	cg01925738	-0.30416	Spearman correlation	0.0020939	0.052478
+expression	CDH4	methylation	cg07363137	-0.30367	Spearman correlation	0.0021304	0.053259
+expression	SLC5A1	methylation	cg25789370	-0.30332	Spearman correlation	0.0021574	0.053801
+expression	GDA	methylation	cg19664267	0.30321	Spearman correlation	0.002166	0.053882
+expression	CYP4A11	methylation	cg25780607	0.30304	Spearman correlation	0.0021787	0.053883
+expression	IGKC	methylation	cg07376381	0.30302	Spearman correlation	0.0021804	0.053883
+expression	UGT1A9	methylation	cg14288281	0.30297	Spearman correlation	0.002184	0.053883
+expression	ALDOB	methylation	cg23192683	0.30287	Spearman correlation	0.0021917	0.053883
+expression	PPP1R1A	methylation	cg05098566	-0.30286	Spearman correlation	0.002193	0.053883
+expression	SST	methylation	cg12483545	-0.30271	Spearman correlation	0.0022046	0.054033
+expression	SLC6A3	methylation	cg05348366	-0.3023	Spearman correlation	0.0022369	0.054692
+expression	CUBN	methylation	cg26708220	0.30154	Spearman correlation	0.0022975	0.055934
+expression	SLC5A1	methylation	cg19308375	0.30153	Spearman correlation	0.0022989	0.055934
+expression	ENPP3	methylation	cg09776772	-0.30119	Spearman correlation	0.0023263	0.056038
+expression	IGHG1	methylation	cg07376381	0.30115	Spearman correlation	0.0023297	0.056038
+expression	IGHG3	methylation	cg07376381	0.30114	Spearman correlation	0.0023302	0.056038
+expression	IGLC3	methylation	cg23192683	-0.30109	Spearman correlation	0.0023348	0.056038
+expression	SLC4A1	methylation	cg06546677	-0.30107	Spearman correlation	0.0023361	0.056038
+expression	CUBN	methylation	cg26880493	0.30106	Spearman correlation	0.0023368	0.056038
+expression	MIOX	methylation	cg23192683	0.30098	Spearman correlation	0.0023437	0.056069
+expression	IGHG1	methylation	cg12908916	-0.30055	Spearman correlation	0.002379	0.056779
+expression	UGT1A9	methylation	cg26708220	0.29997	Spearman correlation	0.0024283	0.057664
+expression	PPP1R1A	methylation	cg08322244	0.29992	Spearman correlation	0.0024324	0.057664
+expression	HMGCS2	methylation	cg23192683	0.29991	Spearman correlation	0.0024334	0.057664
+expression	SCGN	methylation	cg23192683	0.29973	Spearman correlation	0.0024488	0.057762
+expression	ALDOB	methylation	cg00494919	-0.29973	Spearman correlation	0.0024491	0.057762
+expression	NPTX2	methylation	cg14288281	0.29948	Spearman correlation	0.0024703	0.058126
+expression	SLC22A2	methylation	cg20256117	0.2994	Spearman correlation	0.0024774	0.058155
+expression	SLC17A3	methylation	cg12483545	-0.29921	Spearman correlation	0.0024935	0.058369
+expression	IGLC2	methylation	cg23192683	-0.29911	Spearman correlation	0.002503	0.058369
+expression	DCN	methylation	cg08840441	0.29909	Spearman correlation	0.002504	0.058369
+expression	CDH4	methylation	cg01885839	-0.29885	Spearman correlation	0.0025252	0.058549
+expression	SLC13A1	methylation	cg15084390	0.29881	Spearman correlation	0.0025293	0.058549
+expression	REN	methylation	cg09776772	-0.29881	Spearman correlation	0.0025293	0.058549
+expression	SLC22A2	methylation	cg09776772	-0.29846	Spearman correlation	0.0025598	0.058967
+expression	SLC13A1	methylation	cg19092981	-0.29839	Spearman correlation	0.0025667	0.058967
+expression	MSLN	methylation	cg15084390	-0.29839	Spearman correlation	0.0025667	0.058967
+expression	SLC6A3	methylation	cg00281273	-0.29834	Spearman correlation	0.002571	0.058967
+expression	REG1A	methylation	cg12019614	-0.29826	Spearman correlation	0.002578	0.058993
+expression	IGHM	methylation	cg10130446	-0.29793	Spearman correlation	0.0026078	0.059205
+expression	FGB	methylation	cg14204784	-0.29787	Spearman correlation	0.0026135	0.059205
+expression	PRIMA1	methylation	cg15167871	0.29779	Spearman correlation	0.002621	0.059205
+expression	IGHV5-51	methylation	cg18141400	-0.29776	Spearman correlation	0.0026238	0.059205
+expression	IGKV1-5	methylation	cg18141400	-0.29769	Spearman correlation	0.0026299	0.059205
+expression	SLC22A6	methylation	cg09776772	-0.29763	Spearman correlation	0.0026353	0.059205
+expression	IGHA2	methylation	cg08840441	0.29759	Spearman correlation	0.0026387	0.059205
+expression	RPS4Y1	methylation	cg15084390	-0.29758	Spearman correlation	0.0026401	0.059205
+expression	GC	methylation	cg19308375	0.29746	Spearman correlation	0.0026511	0.059205
+expression	KRT19	methylation	cg23192683	-0.29745	Spearman correlation	0.002652	0.059205
+expression	SLPI	methylation	cg19092981	0.29745	Spearman correlation	0.0026524	0.059205
+expression	ALDOB	methylation	cg21333861	0.2973	Spearman correlation	0.0026657	0.05937
+expression	LGALS4	methylation	cg22046408	0.29684	Spearman correlation	0.0027089	0.060092
+expression	DDX3Y	methylation	cg25780607	-0.29683	Spearman correlation	0.0027101	0.060092
+expression	SPOCK1	methylation	cg05098566	-0.29662	Spearman correlation	0.0027294	0.060384
+expression	SLC22A6	methylation	cg04277327	-0.29635	Spearman correlation	0.0027552	0.060821
+expression	VNN1	methylation	cg01893212	-0.29617	Spearman correlation	0.0027721	0.06106
+expression	HMGCS2	methylation	cg04646987	0.29605	Spearman correlation	0.0027843	0.061165
+expression	IGHG2	methylation	cg25780607	-0.296	Spearman correlation	0.0027891	0.061165
+expression	CYP4A11	methylation	cg15167871	-0.29579	Spearman correlation	0.0028088	0.06133
+expression	SLC22A12	methylation	cg25780607	0.29579	Spearman correlation	0.0028089	0.06133
+expression	IGKV1-5	methylation	cg14204784	-0.29564	Spearman correlation	0.0028241	0.061528
+expression	CUBN	methylation	cg15167871	-0.29556	Spearman correlation	0.0028317	0.061558
+expression	KRT223P	methylation	cg12483545	0.29538	Spearman correlation	0.0028491	0.061729
+expression	CDH4	methylation	cg16034168	-0.29533	Spearman correlation	0.0028548	0.061729
+expression	MIOX	methylation	cg09776772	-0.29523	Spearman correlation	0.0028642	0.061729
+expression	IGHG4	methylation	cg25780607	-0.29523	Spearman correlation	0.0028642	0.061729
+expression	FGB	methylation	cg05098566	-0.29494	Spearman correlation	0.0028934	0.062223
+expression	CERNA2	methylation	cg08322244	-0.29447	Spearman correlation	0.0029404	0.063032
+expression	SPON1	methylation	cg01925738	-0.29444	Spearman correlation	0.0029436	0.063032
+expression	FGG	methylation	cg12483545	0.29437	Spearman correlation	0.0029505	0.063046
+expression	CYP4A11	methylation	cg26880493	0.29394	Spearman correlation	0.0029945	0.063831
+expression	IGHM	methylation	cg14204784	-0.29389	Spearman correlation	0.003	0.063831
+expression	SLC5A12	methylation	cg05348366	-0.29378	Spearman correlation	0.0030112	0.063932
+expression	IGHGP	methylation	cg22621695	-0.2937	Spearman correlation	0.0030197	0.063951
+expression	PCK1	methylation	cg23192683	0.29365	Spearman correlation	0.0030249	0.063951
+expression	IGLC2	methylation	cg12483545	0.29343	Spearman correlation	0.0030474	0.064291
+expression	KRT223P	methylation	cg11104088	0.2933	Spearman correlation	0.0030609	0.064439
+expression	PLG	methylation	cg15084390	0.29285	Spearman correlation	0.0031081	0.065297
+expression	SLC5A8	methylation	cg09776772	-0.2927	Spearman correlation	0.0031248	0.065509
+expression	IGLV3-1	methylation	cg08840441	0.29259	Spearman correlation	0.0031364	0.065616
+expression	IGKC	methylation	cg19092981	0.29228	Spearman correlation	0.00317	0.066179
+expression	IGHM	methylation	cg23192683	-0.29216	Spearman correlation	0.0031831	0.066315
+expression	AOC1	methylation	cg07363137	-0.29191	Spearman correlation	0.0032105	0.066647
+expression	IGLC3	methylation	cg12908916	-0.29185	Spearman correlation	0.0032171	0.066647
+expression	ENPP3	methylation	cg05348366	-0.29179	Spearman correlation	0.0032238	0.066647
+expression	HMGCS2	methylation	cg19308375	0.29177	Spearman correlation	0.0032257	0.066647
+expression	REN	methylation	cg04571941	-0.29163	Spearman correlation	0.003241	0.066825
+expression	CYP4A11	methylation	cg01754525	-0.29156	Spearman correlation	0.0032482	0.066836
+expression	PIGR	methylation	cg01893212	-0.29095	Spearman correlation	0.0033172	0.06798
+expression	SLC6A19	methylation	cg21333861	0.29093	Spearman correlation	0.0033187	0.06798
+expression	IGLV3-21	methylation	cg25789370	0.29089	Spearman correlation	0.0033242	0.06798
+expression	REG1A	methylation	cg18141400	-0.29056	Spearman correlation	0.003361	0.068591
+expression	PCK1	methylation	cg00494919	-0.29011	Spearman correlation	0.0034125	0.069501
+expression	LBP	methylation	cg25789370	0.28972	Spearman correlation	0.0034589	0.070302
+expression	IGLV2-23	methylation	cg12744031	-0.28948	Spearman correlation	0.003487	0.07073
+expression	SLPI	methylation	cg15084390	-0.28932	Spearman correlation	0.0035054	0.07096
+expression	SCGN	methylation	cg19664267	0.28921	Spearman correlation	0.0035191	0.071092
+expression	CUBN	methylation	cg12483545	-0.28914	Spearman correlation	0.0035263	0.071096
+expression	IGHGP	methylation	cg07376381	0.28883	Spearman correlation	0.0035635	0.071675
+expression	SLC22A12	methylation	cg15084390	0.28879	Spearman correlation	0.0035694	0.071675
+expression	LUM	methylation	cg19308375	-0.28853	Spearman correlation	0.0036006	0.072157
+expression	IGLV3-1	methylation	cg10130446	-0.28825	Spearman correlation	0.0036349	0.072699
+mutations	PBRM1	expression	ENPP3	0.79724	difference of means (with minus without), in standard deviations	1.103e-06	0.0020562
+mutations	PBRM1	expression	SCGN	0.95904	difference of means (with minus without), in standard deviations	1.5088e-06	0.0020562
+mutations	PBRM1	expression	SLC17A3	0.88627	difference of means (with minus without), in standard deviations	2.0562e-06	0.0020562
+mutations	SETD2	expression	LGALS4	1.1846	difference of means (with minus without), in standard deviations	0.00019905	0.12825
+mutations	SETD2	expression	AC079466.1	1.0582	difference of means (with minus without), in standard deviations	0.00021375	0.12825
+mutations	PBRM1	expression	SLPI	-0.65188	difference of means (with minus without), in standard deviations	0.00027129	0.13564
+mutations	PBRM1	expression	SLC22A6	0.76392	difference of means (with minus without), in standard deviations	0.0003733	0.15998
+mutations	PBRM1	expression	UGT1A9	0.77681	difference of means (with minus without), in standard deviations	0.00046014	0.17255
+mutations	TP53	expression	GDA	-1.9261	difference of means (with minus without), in standard deviations	0.00053301	0.17767
+mutations	VHL	expression	IGLV3-1	0.57271	difference of means (with minus without), in standard deviations	0.001224	0.25915
+mutations	TP53	expression	PLG	-0.95351	difference of means (with minus without), in standard deviations	0.0013244	0.25915
+mutations	PBRM1	expression	REN	0.64002	difference of means (with minus without), in standard deviations	0.001348	0.25915
+mutations	BAP1	expression	NEFL	1.1071	difference of means (with minus without), in standard deviations	0.0016631	0.25915
+mutations	TP53	expression	PRIMA1	-1.4489	difference of means (with minus without), in standard deviations	0.001693	0.25915
+mutations	KDM5C	expression	HMGCS2	-1.1407	difference of means (with minus without), in standard deviations	0.0017368	0.25915
+mutations	TP53	expression	GSTA1	-2.1399	difference of means (with minus without), in standard deviations	0.0017393	0.25915
+mutations	TP53	expression	SLC22A2	-2.1928	difference of means (with minus without), in standard deviations	0.0018354	0.25915
+mutations	ARID1A	expression	RPS4Y1	-1.2608	difference of means (with minus without), in standard deviations	0.0019329	0.25915
+mutations	NEB	expression	FOSB	-1.1899	difference of means (with minus without), in standard deviations	0.0019433	0.25915
+mutations	ZFHX4	expression	CERNA2	-1.6808	difference of means (with minus without), in standard deviations	0.0019885	0.25915
+mutations	TP53	expression	CUBN	-2.2601	difference of means (with minus without), in standard deviations	0.0020422	0.25915
+mutations	VHL	expression	IGLV1-40	0.57503	difference of means (with minus without), in standard deviations	0.0020626	0.25915
+mutations	VHL	expression	JCHAIN	0.56885	difference of means (with minus without), in standard deviations	0.002111	0.25915
+mutations	PBRM1	expression	KRT19	-0.63483	difference of means (with minus without), in standard deviations	0.0023153	0.25915
+mutations	TP53	expression	SLC13A1	-1.3941	difference of means (with minus without), in standard deviations	0.0023307	0.25915
+mutations	VHL	expression	IGKV1-5	0.54646	difference of means (with minus without), in standard deviations	0.0023691	0.25915
+mutations	TP53	expression	ENPP3	-2.7296	difference of means (with minus without), in standard deviations	0.0023928	0.25915
+mutations	TP53	expression	REN	-1.2909	difference of means (with minus without), in standard deviations	0.0026563	0.25915
+mutations	TP53	expression	SLC22A12	-1.3741	difference of means (with minus without), in standard deviations	0.0026563	0.25915
+mutations	KDM5C	expression	SLC34A2	1.1515	difference of means (with minus without), in standard deviations	0.0027703	0.25915
+mutations	VHL	expression	IGLV3-19	0.5773	difference of means (with minus without), in standard deviations	0.0028428	0.25915
+mutations	CSMD3	expression	SLC6A19	-1.0967	difference of means (with minus without), in standard deviations	0.0029961	0.25915
+mutations	LRRCC1	expression	PLG	1.5747	difference of means (with minus without), in standard deviations	0.0032634	0.25915
+mutations	TP53	expression	CP	-1.8767	difference of means (with minus without), in standard deviations	0.0032643	0.25915
+mutations	ARID1A	expression	USP9Y	-1.1689	difference of means (with minus without), in standard deviations	0.0033998	0.25915
+mutations	KDM5C	expression	CP	0.94475	difference of means (with minus without), in standard deviations	0.0034048	0.25915
+mutations	TP53	expression	LRP2	-2.5784	difference of means (with minus without), in standard deviations	0.003435	0.25915
+mutations	TP53	expression	SLC17A3	-1.9203	difference of means (with minus without), in standard deviations	0.0036137	0.25915
+mutations	TP53	expression	MIOX	-1.5243	difference of means (with minus without), in standard deviations	0.0036137	0.25915
+mutations	CSMD3	expression	PLG	-0.91642	difference of means (with minus without), in standard deviations	0.0036971	0.25915
+mutations	ARID1A	expression	SLC13A1	1.2252	difference of means (with minus without), in standard deviations	0.0038007	0.25915
+mutations	TP53	expression	SLC6A19	-1.1138	difference of means (with minus without), in standard deviations	0.0038008	0.25915
+mutations	TP53	expression	GSTA2	-1.6777	difference of means (with minus without), in standard deviations	0.0038008	0.25915
+mutations	TP53	expression	NEFL	-1.4162	difference of means (with minus without), in standard deviations	0.0038008	0.25915
+mutations	TP53	expression	CERNA2	-1.2905	difference of means (with minus without), in standard deviations	0.0038975	0.25983
+mutations	MYCBP2	expression	NPTX2	-1.2544	difference of means (with minus without), in standard deviations	0.0039967	0.26065
+mutations	ARID1A	expression	DDX3Y	-1.2384	difference of means (with minus without), in standard deviations	0.0041604	0.2626
+mutations	ARID1A	expression	GSTA1	1.0572	difference of means (with minus without), in standard deviations	0.0042016	0.2626
+mutations	MYCBP2	expression	SLC17A3	-1.5445	difference of means (with minus without), in standard deviations	0.0044162	0.27038
+mutations	BAP1	expression	LBP	1.0588	difference of means (with minus without), in standard deviations	0.0045158	0.27095
+mutations	TP53	expression	CYP4A11	-1.3434	difference of means (with minus without), in standard deviations	0.0046406	0.27262
+mutations	VHL	expression	IGLC2	0.51323	difference of means (with minus without), in standard deviations	0.0047254	0.27262
+mutations	SETD2	expression	UGT3A1	0.77968	difference of means (with minus without), in standard deviations	0.0048588	0.27503
+mutations	CSMD3	expression	PCK1	-1.1613	difference of means (with minus without), in standard deviations	0.0049776	0.27653
+mutations	ARID1A	expression	SPON1	1.2382	difference of means (with minus without), in standard deviations	0.0051206	0.27892
+mutations	DNAH2	expression	MSLN	1.2176	difference of means (with minus without), in standard deviations	0.0052066	0.27892
+mutations	BAP1	expression	SAA1	0.91831	difference of means (with minus without), in standard deviations	0.0061802	0.32093
+mutations	SETD2	expression	SLC34A2	-0.82776	difference of means (with minus without), in standard deviations	0.0062046	0.32093
+mutations	TP53	expression	ALDOB	-1.207	difference of means (with minus without), in standard deviations	0.0068417	0.34598
+mutations	PBRM1	expression	CYP4A11	0.53915	difference of means (with minus without), in standard deviations	0.0069195	0.34598
+mutations	PBRM1	expression	SLC34A2	-0.52806	difference of means (with minus without), in standard deviations	0.0070647	0.34715
+mutations	ARID1A	expression	GSTA2	1.083	difference of means (with minus without), in standard deviations	0.0071745	0.34715
+mutations	VHL	expression	IGKV4-1	0.46876	difference of means (with minus without), in standard deviations	0.0073634	0.34715
+mutations	SMARCA4	expression	SST	1.1551	difference of means (with minus without), in standard deviations	0.0075198	0.34715
+mutations	ZFHX4	expression	UGT1A9	-1.3378	difference of means (with minus without), in standard deviations	0.0075216	0.34715
+mutations	VHL	expression	PRIMA1	0.54165	difference of means (with minus without), in standard deviations	0.0079948	0.3634
+mutations	VHL	expression	IGLV2-23	0.41921	difference of means (with minus without), in standard deviations	0.0085001	0.3806
+mutations	ROS1	expression	UGT1A9	0.97742	difference of means (with minus without), in standard deviations	0.0087712	0.38697
+mutations	KDM5C	expression	PRIMA1	0.94859	difference of means (with minus without), in standard deviations	0.0097217	0.40534
+mutations	SETD2	expression	SLC6A19	-0.84247	difference of means (with minus without), in standard deviations	0.0099423	0.40534
+mutations	SETD2	expression	NDNF	0.45066	difference of means (with minus without), in standard deviations	0.0099423	0.40534
+mutations	BAP1	expression	SLC6A19	-0.88462	difference of means (with minus without), in standard deviations	0.010086	0.40534
+mutations	VHL	expression	NPTX2	0.53154	difference of means (with minus without), in standard deviations	0.010191	0.40534
+mutations	PBRM1	expression	MSLN	-0.439	difference of means (with minus without), in standard deviations	0.010396	0.40534
+mutations	ZFHX4	expression	GDA	-1.2976	difference of means (with minus without), in standard deviations	0.010404	0.40534
+mutations	TP53	expression	SLC34A2	-1.0924	difference of means (with minus without), in standard deviations	0.010404	0.40534
+mutations	LRRCC1	expression	SLC6A19	1.2756	difference of means (with minus without), in standard deviations	0.010404	0.40534
+mutations	VHL	expression	IGHV3-23	0.46118	difference of means (with minus without), in standard deviations	0.010817	0.40994
+mutations	HMCN1	expression	AC079466.1	1.2213	difference of means (with minus without), in standard deviations	0.010819	0.40994
+mutations	MTOR	expression	NDNF	0.80733	difference of means (with minus without), in standard deviations	0.011072	0.40994
+mutations	KDM5C	expression	SORCS3	0.96729	difference of means (with minus without), in standard deviations	0.011248	0.40994
+mutations	VHL	expression	IGLV3-21	0.49339	difference of means (with minus without), in standard deviations	0.011478	0.40994
+mutations	PBRM1	expression	NEFL	-0.48565	difference of means (with minus without), in standard deviations	0.011478	0.40994
+mutations	PBRM1	expression	DCN	-0.51742	difference of means (with minus without), in standard deviations	0.011478	0.40994
+mutations	KDM5C	expression	CERNA2	0.82363	difference of means (with minus without), in standard deviations	0.011667	0.41148
+mutations	CSMD3	expression	SPON1	-1.1122	difference of means (with minus without), in standard deviations	0.011796	0.41148
+mutations	PBRM1	expression	PLG	0.50976	difference of means (with minus without), in standard deviations	0.012292	0.41532
+mutations	ARID1A	expression	KDM5D	-1.1822	difference of means (with minus without), in standard deviations	0.012402	0.41532
+mutations	PBRM1	expression	REG1A	-0.55412	difference of means (with minus without), in standard deviations	0.012415	0.41532
+mutations	TP53	expression	AOC1	-1.8152	difference of means (with minus without), in standard deviations	0.01246	0.41532
+mutations	ARID1A	expression	GC	1.3439	difference of means (with minus without), in standard deviations	0.013024	0.42479
+mutations	TP53	expression	SLC5A12	-1.2445	difference of means (with minus without), in standard deviations	0.013027	0.42479
+mutations	MYCBP2	expression	SLPI	1.1824	difference of means (with minus without), in standard deviations	0.013616	0.43
+mutations	TP53	expression	SLC4A1	2.1338	difference of means (with minus without), in standard deviations	0.013616	0.43
+mutations	ARID1A	expression	AOC1	0.92599	difference of means (with minus without), in standard deviations	0.013617	0.43
+mutations	SPEN	expression	IGHV5-51	1.1956	difference of means (with minus without), in standard deviations	0.013888	0.434
+mutations	VHL	expression	IGHV5-51	0.37892	difference of means (with minus without), in standard deviations	0.014217	0.43971
+mutations	BAP1	expression	SLC6A3	-0.60754	difference of means (with minus without), in standard deviations	0.014453	0.44244
+mutations	VHL	expression	CP	0.59614	difference of means (with minus without), in standard deviations	0.014773	0.44603
+mutations	TP53	expression	FGB	-0.69519	difference of means (with minus without), in standard deviations	0.014868	0.44603
+mutations	ARMC4	expression	CERNA2	0.9323	difference of means (with minus without), in standard deviations	0.01553	0.45677
+mutations	CENPF	expression	FOSB	1.1596	difference of means (with minus without), in standard deviations	0.01553	0.45677
+mutations	PBRM1	expression	PIGR	-0.50939	difference of means (with minus without), in standard deviations	0.015943	0.46435
+mutations	TP53	expression	SCGN	-1.1988	difference of means (with minus without), in standard deviations	0.016219	0.46785
+mutations	ARID1A	expression	CERNA2	-1.4214	difference of means (with minus without), in standard deviations	0.016573	0.4735
+mutations	TP53	expression	SLC5A1	-1.1098	difference of means (with minus without), in standard deviations	0.016934	0.47926
+mutations	ZFHX4	expression	HMGCS2	-1.0747	difference of means (with minus without), in standard deviations	0.017676	0.4956
+mutations	PBRM1	expression	NPTX2	0.47725	difference of means (with minus without), in standard deviations	0.018186	0.49858
+mutations	NEB	expression	SLC5A8	-1.0843	difference of means (with minus without), in standard deviations	0.018347	0.49858
+mutations	ARID1A	expression	KRT223P	-1.0226	difference of means (with minus without), in standard deviations	0.018444	0.49858
+mutations	MYCBP2	expression	DCN	1.0509	difference of means (with minus without), in standard deviations	0.018448	0.49858
+mutations	MYCBP2	expression	MSLN	1.5233	difference of means (with minus without), in standard deviations	0.019248	0.51101
+mutations	LRRCC1	expression	PCK1	0.93369	difference of means (with minus without), in standard deviations	0.019248	0.51101
+mutations	DNAH2	expression	GC	-0.67173	difference of means (with minus without), in standard deviations	0.019828	0.51492
+mutations	MTOR	expression	MSLN	0.7517	difference of means (with minus without), in standard deviations	0.019898	0.51492
+mutations	BAP1	expression	PPP1R1A	0.75908	difference of means (with minus without), in standard deviations	0.020409	0.51492
+mutations	PBRM1	expression	LUM	-0.47891	difference of means (with minus without), in standard deviations	0.020701	0.51492
+mutations	VHL	expression	GSTA1	0.53477	difference of means (with minus without), in standard deviations	0.020891	0.51492
+mutations	LRRCC1	expression	LBP	-0.63117	difference of means (with minus without), in standard deviations	0.02094	0.51492
+mutations	MYCBP2	expression	IGHGP	1.0435	difference of means (with minus without), in standard deviations	0.02094	0.51492
+mutations	MYCBP2	expression	ENPP3	-1.7683	difference of means (with minus without), in standard deviations	0.02094	0.51492
+mutations	TP53	expression	VNN1	-1.0133	difference of means (with minus without), in standard deviations	0.02094	0.51492
+mutations	TP53	expression	KRT223P	-0.86883	difference of means (with minus without), in standard deviations	0.021379	0.52144
+mutations	TP53	expression	REG1A	-0.99872	difference of means (with minus without), in standard deviations	0.021833	0.52401
+mutations	ZFHX4	expression	CUBN	-1.4533	difference of means (with minus without), in standard deviations	0.021834	0.52401
+mutations	KMT2C	expression	PAH	-0.74729	difference of means (with minus without), in standard deviations	0.022464	0.53344
+mutations	VHL	expression	PNCK	0.48657	difference of means (with minus without), in standard deviations	0.022678	0.53344
+mutations	ZFHX4	expression	PAH	-1.0454	difference of means (with minus without), in standard deviations	0.02276	0.53344
+mutations	TTN	expression	SCGN	-0.56588	difference of means (with minus without), in standard deviations	0.023397	0.53506
+mutations	MYCBP2	expression	IGKV3-20	1.1501	difference of means (with minus without), in standard deviations	0.023721	0.53506
+mutations	MYCBP2	expression	PNCK	-1.1741	difference of means (with minus without), in standard deviations	0.023721	0.53506
+mutations	TP53	expression	NPTX2	-1.2262	difference of means (with minus without), in standard deviations	0.023721	0.53506
+mutations	TP53	expression	UGT1A9	-1.1188	difference of means (with minus without), in standard deviations	0.023721	0.53506
+mutations	MUC16	expression	FOSB	-0.65992	difference of means (with minus without), in standard deviations	0.023923	0.5356
+mutations	ARMC4	expression	AC079466.1	1.2697	difference of means (with minus without), in standard deviations	0.024645	0.54422
+mutations	UTRN	expression	SLC6A19	1.0563	difference of means (with minus without), in standard deviations	0.024717	0.54422
+mutations	KDM5C	expression	ALDOB	-0.74118	difference of means (with minus without), in standard deviations	0.024928	0.54422
+mutations	TTN	expression	HMGCS2	-0.58806	difference of means (with minus without), in standard deviations	0.025057	0.54422
+mutations	VHL	expression	SPOCK1	0.45498	difference of means (with minus without), in standard deviations	0.025721	0.54422
+mutations	ARID1A	expression	CYP4A11	1.0732	difference of means (with minus without), in standard deviations	0.025748	0.54422
+mutations	MYCBP2	expression	SCGN	-1.0223	difference of means (with minus without), in standard deviations	0.025748	0.54422
+mutations	KDM5C	expression	LGALS4	-0.71661	difference of means (with minus without), in standard deviations	0.02576	0.54422
+mutations	MYCBP2	expression	IGHV3-23	1.0581	difference of means (with minus without), in standard deviations	0.026817	0.55979
+mutations	CSMD3	expression	ALDOB	-0.91587	difference of means (with minus without), in standard deviations	0.02687	0.55979
+mutations	CSMD3	expression	SAA1	0.73715	difference of means (with minus without), in standard deviations	0.027884	0.56586
+mutations	CSMD3	expression	SLC5A8	-1.0865	difference of means (with minus without), in standard deviations	0.027886	0.56586
+mutations	CSMD3	expression	CUBN	-1.2401	difference of means (with minus without), in standard deviations	0.027886	0.56586
+mutations	MYCBP2	expression	IGHG1	0.99344	difference of means (with minus without), in standard deviations	0.027924	0.56586
+mutations	PBRM1	expression	SLC22A12	0.43854	difference of means (with minus without), in standard deviations	0.028104	0.56586
+mutations	MYCBP2	expression	KRT223P	-0.91626	difference of means (with minus without), in standard deviations	0.028487	0.56708
+mutations	VHL	expression	IGLC3	0.42077	difference of means (with minus without), in standard deviations	0.028603	0.56708
+mutations	VHL	expression	KRT223P	0.42544	difference of means (with minus without), in standard deviations	0.029105	0.56708
+mutations	PBRM1	expression	PAH	0.39302	difference of means (with minus without), in standard deviations	0.02911	0.56708
+mutations	VHL	expression	IGKC	0.40499	difference of means (with minus without), in standard deviations	0.02911	0.56708
+mutations	SPEN	expression	IGHG1	1.1542	difference of means (with minus without), in standard deviations	0.030018	0.5715
+mutations	ARID1A	expression	MSLN	1.2681	difference of means (with minus without), in standard deviations	0.030256	0.5715
+mutations	TP53	expression	RBP4	-0.92711	difference of means (with minus without), in standard deviations	0.030256	0.5715
+mutations	TP53	expression	PROM1	-1.0086	difference of means (with minus without), in standard deviations	0.030256	0.5715
+mutations	KDM5C	expression	PROM1	0.8271	difference of means (with minus without), in standard deviations	0.030289	0.5715
+mutations	LRP2	expression	PLG	0.90992	difference of means (with minus without), in standard deviations	0.03113	0.578
+mutations	HMCN1	expression	GSTA1	0.79759	difference of means (with minus without), in standard deviations	0.031134	0.578
+mutations	TP53	expression	PCK1	-1.1129	difference of means (with minus without), in standard deviations	0.031483	0.578
+mutations	KDM5C	expression	SST	-0.72171	difference of means (with minus without), in standard deviations	0.032279	0.578
+mutations	BAP1	expression	SLC5A1	-0.76888	difference of means (with minus without), in standard deviations	0.032284	0.578
+mutations	HMCN1	expression	PCK1	0.82623	difference of means (with minus without), in standard deviations	0.032288	0.578
+mutations	FBN2	expression	SPOCK1	0.94876	difference of means (with minus without), in standard deviations	0.032753	0.578
+mutations	TP53	expression	HABP2	-0.88421	difference of means (with minus without), in standard deviations	0.032753	0.578
+mutations	TP53	expression	PNCK	-1.2387	difference of means (with minus without), in standard deviations	0.032753	0.578
+mutations	LRRCC1	expression	ALDOB	1.0219	difference of means (with minus without), in standard deviations	0.032753	0.578
+mutations	CENPF	expression	PCK1	0.89687	difference of means (with minus without), in standard deviations	0.032753	0.578
+mutations	DNAH2	expression	UGT3A1	0.80573	difference of means (with minus without), in standard deviations	0.033476	0.57942
+mutations	CSMD3	expression	REN	-0.87279	difference of means (with minus without), in standard deviations	0.033477	0.57942
+mutations	TTN	expression	GRIA4	0.58643	difference of means (with minus without), in standard deviations	0.033478	0.57942
+mutations	PBRM1	expression	SLC5A12	0.4104	difference of means (with minus without), in standard deviations	0.034027	0.57942
+mutations	ARID1A	expression	FABP7	0.97582	difference of means (with minus without), in standard deviations	0.034067	0.57942
+mutations	TP53	expression	FABP7	-1.128	difference of means (with minus without), in standard deviations	0.034067	0.57942
+mutations	TTN	expression	RPS4Y1	-0.39858	difference of means (with minus without), in standard deviations	0.034186	0.57942
+mutations	KDM5C	expression	NPTX2	0.85359	difference of means (with minus without), in standard deviations	0.034391	0.57962
+mutations	VHL	expression	IGHGP	0.37029	difference of means (with minus without), in standard deviations	0.034615	0.58014
+mutations	ZFHX4	expression	PLG	-0.86932	difference of means (with minus without), in standard deviations	0.03542	0.58393
+mutations	CENPF	expression	PLG	1.3237	difference of means (with minus without), in standard deviations	0.03542	0.58393
+mutations	MYCBP2	expression	IGHG2	1.0639	difference of means (with minus without), in standard deviations	0.035425	0.58393
+mutations	SETD2	expression	HMGCS2	0.65671	difference of means (with minus without), in standard deviations	0.035641	0.58427
+mutations	NEB	expression	PROM1	-0.8798	difference of means (with minus without), in standard deviations	0.035968	0.58644
+mutations	MYCBP2	expression	IGHG4	1.0091	difference of means (with minus without), in standard deviations	0.03683	0.59724
+mutations	KMT2C	expression	SYT13	0.69608	difference of means (with minus without), in standard deviations	0.037188	0.59794
+mutations	CSMD3	expression	SCGN	-0.91578	difference of means (with minus without), in standard deviations	0.037272	0.59794
+mutations	KDM5C	expression	PNCK	0.73849	difference of means (with minus without), in standard deviations	0.03777	0.602
+mutations	CENPF	expression	AC079466.1	0.9955	difference of means (with minus without), in standard deviations	0.038186	0.602
+mutations	KMT2C	expression	ENPP3	-0.40852	difference of means (with minus without), in standard deviations	0.038298	0.602
+mutations	PBRM1	expression	SLC5A1	0.41194	difference of means (with minus without), in standard deviations	0.038327	0.602
+mutations	HMCN1	expression	CYP4A11	0.86885	difference of means (with minus without), in standard deviations	0.038616	0.60337
+mutations	ARMC4	expression	PLG	0.98512	difference of means (with minus without), in standard deviations	0.039775	0.61826
+mutations	MTOR	expression	HABP2	0.68887	difference of means (with minus without), in standard deviations	0.040123	0.62011
+mutations	VHL	expression	IGHA1	0.43576	difference of means (with minus without), in standard deviations	0.040307	0.62011
+mutations	MYCBP2	expression	HMGCS2	-0.91403	difference of means (with minus without), in standard deviations	0.04133	0.62768
+mutations	TP53	expression	SLC6A3	-1.4992	difference of means (with minus without), in standard deviations	0.04133	0.62768
+mutations	CSMD3	expression	PPP1R1A	0.80865	difference of means (with minus without), in standard deviations	0.041427	0.62768
+mutations	DNAH2	expression	GSTA2	-0.9182	difference of means (with minus without), in standard deviations	0.042896	0.64075
+mutations	ZFHX4	expression	SLC13A1	-0.92958	difference of means (with minus without), in standard deviations	0.04293	0.64075
+mutations	MYCBP2	expression	IGLC3	1.0718	difference of means (with minus without), in standard deviations	0.042931	0.64075
+mutations	VHL	expression	FGG	0.46286	difference of means (with minus without), in standard deviations	0.043796	0.65044
+mutations	KDM5C	expression	DCN	-0.72594	difference of means (with minus without), in standard deviations	0.044029	0.65067
+mutations	UTRN	expression	SAA1	-0.6249	difference of means (with minus without), in standard deviations	0.04458	0.65216
+mutations	TP53	expression	SLC5A8	-1.133	difference of means (with minus without), in standard deviations	0.044583	0.65216
+mutations	CSMD3	expression	CYP4A11	-0.88698	difference of means (with minus without), in standard deviations	0.045968	0.65216
+mutations	SPEN	expression	IGLV3-21	1.0535	difference of means (with minus without), in standard deviations	0.045968	0.65216
+mutations	SPEN	expression	IGHV3-23	1.1208	difference of means (with minus without), in standard deviations	0.045968	0.65216
+mutations	SPEN	expression	IGLV2-23	1.2531	difference of means (with minus without), in standard deviations	0.045968	0.65216
+mutations	ARID1A	expression	SLC5A8	0.83498	difference of means (with minus without), in standard deviations	0.046288	0.65216
+mutations	MYCBP2	expression	IGKC	0.92867	difference of means (with minus without), in standard deviations	0.046288	0.65216
+mutations	FBN2	expression	SFRP2	0.91538	difference of means (with minus without), in standard deviations	0.046288	0.65216
+mutations	SETD2	expression	CP	-0.49966	difference of means (with minus without), in standard deviations	0.0464	0.65216
+mutations	VHL	expression	IGHG1	0.42082	difference of means (with minus without), in standard deviations	0.046773	0.65216
+mutations	PBRM1	expression	SLC5A8	0.42413	difference of means (with minus without), in standard deviations	0.046773	0.65216
+mutations	HMCN1	expression	SLC17A3	0.7433	difference of means (with minus without), in standard deviations	0.047572	0.65216
+mutations	MYCBP2	expression	IGLV3-21	0.94885	difference of means (with minus without), in standard deviations	0.048049	0.65216
+mutations	LRRCC1	expression	SLC22A6	0.86964	difference of means (with minus without), in standard deviations	0.048049	0.65216
+mutations	KDM5C	expression	UGT1A9	-0.75039	difference of means (with minus without), in standard deviations	0.048189	0.65216
+mutations	VHL	expression	IGKV3-20	0.32301	difference of means (with minus without), in standard deviations	0.048323	0.65216
+mutations	SETD2	expression	PAH	0.55683	difference of means (with minus without), in standard deviations	0.048624	0.65216
+mutations	VHL	expression	GSTA2	0.4558	difference of means (with minus without), in standard deviations	0.049114	0.65216
+mutations	PBRM1	expression	PPP1R1A	-0.27125	difference of means (with minus without), in standard deviations	0.049114	0.65216
+mutations	NEB	expression	REN	-0.76111	difference of means (with minus without), in standard deviations	0.049222	0.65216
+mutations	NEB	expression	NDNF	-0.74727	difference of means (with minus without), in standard deviations	0.049222	0.65216
+mutations	BAP1	expression	PLG	-0.55878	difference of means (with minus without), in standard deviations	0.04964	0.65216
+mutations	KDM5C	expression	MYEOV	0.74411	difference of means (with minus without), in standard deviations	0.049647	0.65216
+mutations	SETD2	expression	MYEOV	-0.51822	difference of means (with minus without), in standard deviations	0.04977	0.65216
+mutations	TP53	expression	JCHAIN	-0.94947	difference of means (with minus without), in standard deviations	0.049865	0.65216
+mutations	ROS1	expression	CP	0.723	difference of means (with minus without), in standard deviations	0.050127	0.65216
+mutations	KDM5C	expression	UGT3A1	-0.78449	difference of means (with minus without), in standard deviations	0.050389	0.65216
+mutations	PBRM1	expression	SAA1	-0.28907	difference of means (with minus without), in standard deviations	0.050726	0.65216
+mutations	PBRM1	expression	HP	-0.18118	difference of means (with minus without), in standard deviations	0.050729	0.65216
+mutations	HMCN1	expression	IGHM	0.90169	difference of means (with minus without), in standard deviations	0.050921	0.65216
+mutations	VHL	expression	PAH	0.37637	difference of means (with minus without), in standard deviations	0.051139	0.65216
+mutations	ZFHX4	expression	MIOX	-0.94007	difference of means (with minus without), in standard deviations	0.051738	0.65216
+mutations	MYCBP2	expression	HABP2	-0.87982	difference of means (with minus without), in standard deviations	0.051738	0.65216
+mutations	PAPOLG	expression	PIGR	-0.86187	difference of means (with minus without), in standard deviations	0.051738	0.65216
+mutations	SPEN	expression	FGG	0.94529	difference of means (with minus without), in standard deviations	0.052665	0.66107
+mutations	AHNAK2	expression	XIST	0.55718	difference of means (with minus without), in standard deviations	0.053352	0.6669
+mutations	ZFHX4	expression	SLC22A6	-0.91021	difference of means (with minus without), in standard deviations	0.05367	0.66809
+mutations	CSMD3	expression	SLPI	1.005	difference of means (with minus without), in standard deviations	0.054464	0.67241
+mutations	SPEN	expression	IGLV3-1	0.96946	difference of means (with minus without), in standard deviations	0.054465	0.67241
+mutations	ZFHX4	expression	USP9Y	-0.72642	difference of means (with minus without), in standard deviations	0.055394	0.67551
+mutations	ZFHX4	expression	LRP2	-1.657	difference of means (with minus without), in standard deviations	0.055662	0.67551
+mutations	ARID1A	expression	MIOX	0.81845	difference of means (with minus without), in standard deviations	0.055662	0.67551
+mutations	TP53	expression	LGALS4	-0.7374	difference of means (with minus without), in standard deviations	0.055662	0.67551
+mutations	SETD2	expression	SLC4A1	0.42597	difference of means (with minus without), in standard deviations	0.055842	0.67551
+mutations	SPEN	expression	IGHG4	0.86515	difference of means (with minus without), in standard deviations	0.056313	0.67847
+mutations	SMARCA4	expression	PAH	-0.82292	difference of means (with minus without), in standard deviations	0.057714	0.68507
+mutations	ARID1A	expression	LGALS4	0.99137	difference of means (with minus without), in standard deviations	0.057714	0.68507
+mutations	LRRCC1	expression	SCGN	0.85131	difference of means (with minus without), in standard deviations	0.057714	0.68507
+mutations	LRP2	expression	VNN1	0.77877	difference of means (with minus without), in standard deviations	0.058213	0.68507
+mutations	SPEN	expression	IGHGP	1.0452	difference of means (with minus without), in standard deviations	0.058213	0.68507
+mutations	KMT2C	expression	MTND4P12	0.66169	difference of means (with minus without), in standard deviations	0.058627	0.68507
+mutations	MTOR	expression	SLC34A2	0.59249	difference of means (with minus without), in standard deviations	0.059732	0.68507
+mutations	ZFHX4	expression	ENPP3	-1.4028	difference of means (with minus without), in standard deviations	0.05983	0.68507
+mutations	MYCBP2	expression	GSTA2	-1.0765	difference of means (with minus without), in standard deviations	0.05983	0.68507
+mutations	MACF1	expression	IGLC3	-0.79233	difference of means (with minus without), in standard deviations	0.05983	0.68507
+mutations	TP53	expression	SLC22A6	-0.92494	difference of means (with minus without), in standard deviations	0.05983	0.68507
+mutations	PAPOLG	expression	SYT13	-1.0774	difference of means (with minus without), in standard deviations	0.05983	0.68507
+mutations	ARMC4	expression	IGHV3-23	-0.74624	difference of means (with minus without), in standard deviations	0.05983	0.68507
+mutations	MUC16	expression	GC	-0.45405	difference of means (with minus without), in standard deviations	0.060334	0.68822
+mutations	PBRM1	expression	MYEOV	-0.41532	difference of means (with minus without), in standard deviations	0.061376	0.69081
+mutations	LRP1B	expression	PAH	-0.81414	difference of means (with minus without), in standard deviations	0.062008	0.69081
+mutations	ARID1A	expression	PCK1	0.77777	difference of means (with minus without), in standard deviations	0.062009	0.69081
+mutations	CENPF	expression	PIGR	-0.78375	difference of means (with minus without), in standard deviations	0.062009	0.69081
+mutations	NEB	expression	SLC5A1	-0.78857	difference of means (with minus without), in standard deviations	0.062173	0.69081
+mutations	SPEN	expression	IGHG2	0.76627	difference of means (with minus without), in standard deviations	0.062173	0.69081
+mutations	HMCN1	expression	NPTX2	0.7327	difference of means (with minus without), in standard deviations	0.062173	0.69081
+mutations	KDM5C	expression	REG1A	0.7528	difference of means (with minus without), in standard deviations	0.062694	0.69148
+mutations	KDM5C	expression	PCK1	-0.67176	difference of means (with minus without), in standard deviations	0.062694	0.69148
+mutations	MTOR	expression	PPP1R1A	0.4554	difference of means (with minus without), in standard deviations	0.064178	0.6915
+mutations	CSMD3	expression	SLC22A12	-0.7773	difference of means (with minus without), in standard deviations	0.064234	0.6915
+mutations	UTRN	expression	SST	0.98943	difference of means (with minus without), in standard deviations	0.064246	0.6915
+mutations	ARMC4	expression	ENPP3	0.64756	difference of means (with minus without), in standard deviations	0.064254	0.6915
+mutations	PBRM1	expression	SLC6A3	0.50286	difference of means (with minus without), in standard deviations	0.06431	0.6915
+mutations	PBRM1	expression	AOC1	-0.20402	difference of means (with minus without), in standard deviations	0.06431	0.6915
+mutations	PBRM1	expression	GRIA4	0.34959	difference of means (with minus without), in standard deviations	0.06431	0.6915
+mutations	PBRM1	expression	IGHG4	-0.34792	difference of means (with minus without), in standard deviations	0.066329	0.69876
+mutations	SPEN	expression	IGKV3-20	0.95038	difference of means (with minus without), in standard deviations	0.066352	0.69876
+mutations	HMCN1	expression	FGA	0.58485	difference of means (with minus without), in standard deviations	0.066352	0.69876
+mutations	KDM5C	expression	C7	-0.63519	difference of means (with minus without), in standard deviations	0.066366	0.69876
+mutations	MYCBP2	expression	SAA1	0.65752	difference of means (with minus without), in standard deviations	0.066562	0.69876
+mutations	ARID1A	expression	CUBN	0.71589	difference of means (with minus without), in standard deviations	0.066565	0.69876
+mutations	VHL	expression	SLC6A19	0.40119	difference of means (with minus without), in standard deviations	0.067358	0.69876
+mutations	MUC16	expression	CDH4	-0.53818	difference of means (with minus without), in standard deviations	0.067442	0.69876
+mutations	ROS1	expression	PPP1R1A	0.55638	difference of means (with minus without), in standard deviations	0.068185	0.69876
+mutations	DNAH2	expression	SLC6A3	-1.0428	difference of means (with minus without), in standard deviations	0.068528	0.69876
+mutations	SPEN	expression	IGKV1-5	1.0817	difference of means (with minus without), in standard deviations	0.068528	0.69876
+mutations	ZFHX4	expression	ALDOB	-0.81739	difference of means (with minus without), in standard deviations	0.068944	0.69876
+mutations	ARID1A	expression	PIGR	0.8493	difference of means (with minus without), in standard deviations	0.068944	0.69876
+mutations	ARID1A	expression	SLC22A12	0.90817	difference of means (with minus without), in standard deviations	0.068944	0.69876
+mutations	ARID1A	expression	SLC22A6	0.94796	difference of means (with minus without), in standard deviations	0.068944	0.69876
+mutations	MYCBP2	expression	IGKV1-5	0.87182	difference of means (with minus without), in standard deviations	0.068944	0.69876
+mutations	LRRCC1	expression	KRT19	-0.87574	difference of means (with minus without), in standard deviations	0.068944	0.69876
+mutations	PBRM1	expression	IGHGP	-0.3086	difference of means (with minus without), in standard deviations	0.069455	0.70157
+mutations	MTOR	expression	KRT223P	0.56469	difference of means (with minus without), in standard deviations	0.070518	0.70526
+mutations	CSMD3	expression	SLC22A2	-1.1888	difference of means (with minus without), in standard deviations	0.070761	0.70526
+mutations	NEB	expression	IGLV2-23	-0.67379	difference of means (with minus without), in standard deviations	0.070761	0.70526
+mutations	SPEN	expression	IGKC	0.97009	difference of means (with minus without), in standard deviations	0.070761	0.70526
+mutations	TP53	expression	MMP7	-0.83033	difference of means (with minus without), in standard deviations	0.071393	0.7092
+mutations	VHL	expression	LRP2	0.44723	difference of means (with minus without), in standard deviations	0.072702	0.71116
+mutations	PBRM1	expression	C7	-0.39493	difference of means (with minus without), in standard deviations	0.073811	0.71116
+mutations	ZFHX4	expression	SLC17A3	-0.99937	difference of means (with minus without), in standard deviations	0.073913	0.71116
+mutations	MACF1	expression	MSLN	-0.70725	difference of means (with minus without), in standard deviations	0.073913	0.71116
+mutations	AHNAK2	expression	C7	-0.64096	difference of means (with minus without), in standard deviations	0.074545	0.71116
+mutations	SPEN	expression	IGHG3	1.021	difference of means (with minus without), in standard deviations	0.075407	0.71116
+mutations	HMCN1	expression	GRIA4	0.74251	difference of means (with minus without), in standard deviations	0.075407	0.71116
+mutations	TTN	expression	USP9Y	-0.41657	difference of means (with minus without), in standard deviations	0.075602	0.71116
+mutations	TTN	expression	KDM5D	-0.3603	difference of means (with minus without), in standard deviations	0.075729	0.71116
+mutations	TTN	expression	NEFL	0.44715	difference of means (with minus without), in standard deviations	0.075922	0.71116
+mutations	SETD2	expression	FGA	0.16345	difference of means (with minus without), in standard deviations	0.076197	0.71116
+mutations	TP53	expression	FGA	-0.36163	difference of means (with minus without), in standard deviations	0.076504	0.71116
+mutations	SMARCA4	expression	HMGCS2	-0.77745	difference of means (with minus without), in standard deviations	0.076505	0.71116
+mutations	ZFHX4	expression	SLC22A12	-0.84525	difference of means (with minus without), in standard deviations	0.076505	0.71116
+mutations	ARID1A	expression	FOSB	0.76371	difference of means (with minus without), in standard deviations	0.076505	0.71116
+mutations	MYCBP2	expression	MYEOV	0.86286	difference of means (with minus without), in standard deviations	0.076505	0.71116
+mutations	MACF1	expression	IGLV3-1	-0.7168	difference of means (with minus without), in standard deviations	0.076505	0.71116
+mutations	MACF1	expression	IGLV2-23	-0.73239	difference of means (with minus without), in standard deviations	0.076505	0.71116
+mutations	LRRCC1	expression	SYT13	-0.72361	difference of means (with minus without), in standard deviations	0.076505	0.71116
+mutations	KMT2C	expression	SLC5A12	-0.72102	difference of means (with minus without), in standard deviations	0.076638	0.71116
+mutations	PBRM1	expression	LRP2	0.4627	difference of means (with minus without), in standard deviations	0.077222	0.71116
+mutations	ZFHX4	expression	KRT223P	-0.78743	difference of means (with minus without), in standard deviations	0.077819	0.71116
+mutations	CSMD3	expression	SLC6A3	-1.0866	difference of means (with minus without), in standard deviations	0.077822	0.71116
+mutations	CSMD3	expression	MMP7	0.71646	difference of means (with minus without), in standard deviations	0.077822	0.71116
+mutations	CSMD3	expression	SST	-0.55821	difference of means (with minus without), in standard deviations	0.079044	0.71116
+mutations	ZFHX4	expression	SLC5A12	-0.83284	difference of means (with minus without), in standard deviations	0.07917	0.71116
+mutations	ZFHX4	expression	SLC22A2	-1.3244	difference of means (with minus without), in standard deviations	0.07917	0.71116
+mutations	ZFHX4	expression	IGHV3-23	0.53371	difference of means (with minus without), in standard deviations	0.07917	0.71116
+mutations	MYCBP2	expression	IGHG3	0.89837	difference of means (with minus without), in standard deviations	0.07917	0.71116
+mutations	MACF1	expression	SLC5A1	-0.78888	difference of means (with minus without), in standard deviations	0.07917	0.71116
+mutations	LRRCC1	expression	CYP4A11	0.778	difference of means (with minus without), in standard deviations	0.07917	0.71116
+mutations	MTOR	expression	PAH	0.63683	difference of means (with minus without), in standard deviations	0.079176	0.71116
+mutations	MUC16	expression	AOC1	-0.51136	difference of means (with minus without), in standard deviations	0.079842	0.715
+mutations	NEB	expression	PLG	-0.50108	difference of means (with minus without), in standard deviations	0.080291	0.71688
+mutations	ARID1A	expression	PROM1	-0.76593	difference of means (with minus without), in standard deviations	0.081911	0.72487
+mutations	ARID1A	expression	SLC22A2	0.62962	difference of means (with minus without), in standard deviations	0.081911	0.72487
+mutations	LRRCC1	expression	NEFL	-0.74837	difference of means (with minus without), in standard deviations	0.081911	0.72487
+mutations	KDM5C	expression	XIST	-0.91668	difference of means (with minus without), in standard deviations	0.082833	0.72689
+mutations	KDM5C	expression	FOSB	-0.71898	difference of means (with minus without), in standard deviations	0.082865	0.72689
+mutations	KDM5C	expression	LUM	-0.55035	difference of means (with minus without), in standard deviations	0.082865	0.72689
+mutations	ZFHX4	expression	SLC34A2	-0.6534	difference of means (with minus without), in standard deviations	0.084728	0.73019
+mutations	ZFHX4	expression	SCGN	-0.80651	difference of means (with minus without), in standard deviations	0.084728	0.73019
+mutations	MACF1	expression	IGHGP	-0.68716	difference of means (with minus without), in standard deviations	0.084728	0.73019
+mutations	FBN2	expression	JCHAIN	-0.66473	difference of means (with minus without), in standard deviations	0.084728	0.73019
+mutations	VHL	expression	FGB	0.29138	difference of means (with minus without), in standard deviations	0.085683	0.73019
+mutations	AHNAK2	expression	GDA	-0.74585	difference of means (with minus without), in standard deviations	0.086216	0.73019
+mutations	MTOR	expression	UGT1A9	0.44959	difference of means (with minus without), in standard deviations	0.086703	0.73019
+mutations	KMT2C	expression	XIST	0.44342	difference of means (with minus without), in standard deviations	0.087174	0.73019
+mutations	KMT2C	expression	CP	0.50806	difference of means (with minus without), in standard deviations	0.087207	0.73019
+mutations	KMT2C	expression	SCGN	-0.55488	difference of means (with minus without), in standard deviations	0.087207	0.73019
+mutations	ZFHX4	expression	IGHG1	0.70819	difference of means (with minus without), in standard deviations	0.087622	0.73019
+mutations	ARID1A	expression	FGB	0.64401	difference of means (with minus without), in standard deviations	0.087622	0.73019
+mutations	ARID1A	expression	KRT19	-0.77975	difference of means (with minus without), in standard deviations	0.087622	0.73019
+mutations	MACF1	expression	SYT13	-1.1976	difference of means (with minus without), in standard deviations	0.087622	0.73019
+mutations	TP53	expression	IGHA1	-0.831	difference of means (with minus without), in standard deviations	0.087622	0.73019
+mutations	TP53	expression	IGHA2	-0.7057	difference of means (with minus without), in standard deviations	0.087622	0.73019
+mutations	UTRN	expression	FGB	0.86432	difference of means (with minus without), in standard deviations	0.087622	0.73019
+mutations	UTRN	expression	NDNF	-0.73544	difference of means (with minus without), in standard deviations	0.087622	0.73019
+mutations	VHL	expression	ENPP3	0.54567	difference of means (with minus without), in standard deviations	0.088233	0.73298
+mutations	SETD2	expression	CUBN	-0.15401	difference of means (with minus without), in standard deviations	0.088446	0.73298
+mutations	KMT2C	expression	SLC22A6	-0.58517	difference of means (with minus without), in standard deviations	0.089457	0.73743
+mutations	LRRCC1	expression	SST	0.86299	difference of means (with minus without), in standard deviations	0.090587	0.73743
+mutations	MYCBP2	expression	PAH	-0.9	difference of means (with minus without), in standard deviations	0.090596	0.73743
+mutations	MYCBP2	expression	IGLV3-1	0.82765	difference of means (with minus without), in standard deviations	0.090597	0.73743
+mutations	LRRCC1	expression	CP	-0.61081	difference of means (with minus without), in standard deviations	0.090597	0.73743
+mutations	SPEN	expression	FGA	1.0052	difference of means (with minus without), in standard deviations	0.090856	0.73743
+mutations	HMCN1	expression	HP	0.40111	difference of means (with minus without), in standard deviations	0.090857	0.73743
+mutations	MTOR	expression	GSTA1	0.38841	difference of means (with minus without), in standard deviations	0.091692	0.73743
+mutations	KDM5C	expression	SLC13A1	-0.63908	difference of means (with minus without), in standard deviations	0.092282	0.73743
+mutations	BAP1	expression	KRT19	0.59189	difference of means (with minus without), in standard deviations	0.092283	0.73743
+mutations	ARID1A	expression	XIST	0.87664	difference of means (with minus without), in standard deviations	0.093617	0.73743
+mutations	PAPOLG	expression	UGT3A1	-0.61407	difference of means (with minus without), in standard deviations	0.09365	0.73743
+mutations	SMARCA4	expression	CDH4	0.79197	difference of means (with minus without), in standard deviations	0.093651	0.73743
+mutations	LRRCC1	expression	LRP2	0.56217	difference of means (with minus without), in standard deviations	0.093651	0.73743
+mutations	PAPOLG	expression	FABP7	-0.80798	difference of means (with minus without), in standard deviations	0.093651	0.73743
+mutations	PAPOLG	expression	SPOCK1	0.76286	difference of means (with minus without), in standard deviations	0.093651	0.73743
+mutations	DNAH2	expression	CERNA2	0.59202	difference of means (with minus without), in standard deviations	0.093663	0.73743
+mutations	NEB	expression	C7	-0.74622	difference of means (with minus without), in standard deviations	0.093664	0.73743
+mutations	ROS1	expression	MYEOV	0.6847	difference of means (with minus without), in standard deviations	0.093899	0.73743
+mutations	ROS1	expression	GRIA4	-0.58257	difference of means (with minus without), in standard deviations	0.093899	0.73743
+mutations	SETD2	expression	LRP2	-0.17043	difference of means (with minus without), in standard deviations	0.09416	0.73755
+mutations	MTOR	expression	SAA1	0.26471	difference of means (with minus without), in standard deviations	0.094792	0.73867
+mutations	MTOR	expression	PIGR	0.57386	difference of means (with minus without), in standard deviations	0.094796	0.73867
+mutations	KMT2C	expression	GC	0.53827	difference of means (with minus without), in standard deviations	0.096475	0.74262
+mutations	NEB	expression	FABP7	-0.73091	difference of means (with minus without), in standard deviations	0.09654	0.74262
+mutations	ROS1	expression	FGG	0.60659	difference of means (with minus without), in standard deviations	0.096575	0.74262
+mutations	TP53	expression	SORCS3	-0.50168	difference of means (with minus without), in standard deviations	0.096768	0.74262
+mutations	MACF1	expression	FOSB	0.78807	difference of means (with minus without), in standard deviations	0.096788	0.74262
+mutations	MACF1	expression	IGLC2	-0.72034	difference of means (with minus without), in standard deviations	0.096788	0.74262
+mutations	VHL	expression	SLC5A12	0.3547	difference of means (with minus without), in standard deviations	0.099053	0.74819
+mutations	HMCN1	expression	XIST	0.71495	difference of means (with minus without), in standard deviations	0.09945	0.74819
+mutations	SPEN	expression	CERNA2	-0.42699	difference of means (with minus without), in standard deviations	0.099485	0.74819
+mutations	LRP2	expression	GRIA4	-0.66077	difference of means (with minus without), in standard deviations	0.099486	0.74819
+mutations	SPEN	expression	IGLC3	0.81501	difference of means (with minus without), in standard deviations	0.099486	0.74819
+mutations	KDM5C	expression	SLC22A12	-0.60521	difference of means (with minus without), in standard deviations	0.099896	0.74819
+mutations	UTRN	expression	REG1A	0.83266	difference of means (with minus without), in standard deviations	0.10001	0.74819
+mutations	ZFHX4	expression	PCK1	-0.91223	difference of means (with minus without), in standard deviations	0.10001	0.74819
+mutations	ARID1A	expression	RBP4	0.68633	difference of means (with minus without), in standard deviations	0.10001	0.74819
+mutations	LRRCC1	expression	PPP1R1A	-0.52027	difference of means (with minus without), in standard deviations	0.10001	0.74819
+mutations	MTOR	expression	RBP4	0.44056	difference of means (with minus without), in standard deviations	0.10125	0.75228
+mutations	TP53	expression	GC	-0.60451	difference of means (with minus without), in standard deviations	0.10164	0.75228
+mutations	ROS1	expression	SPON1	0.62259	difference of means (with minus without), in standard deviations	0.10212	0.75228
+mutations	SPEN	expression	IGKV4-1	0.93992	difference of means (with minus without), in standard deviations	0.1025	0.75228
+mutations	SPEN	expression	IGLV1-40	1.4413	difference of means (with minus without), in standard deviations	0.1025	0.75228
+mutations	ARID1A	expression	FGA	0.38923	difference of means (with minus without), in standard deviations	0.10331	0.75228
+mutations	MYCBP2	expression	IGHV5-51	1.0823	difference of means (with minus without), in standard deviations	0.10331	0.75228
+mutations	ARID1A	expression	LRP2	0.64715	difference of means (with minus without), in standard deviations	0.10331	0.75228
+mutations	MYCBP2	expression	ALDOB	-0.65831	difference of means (with minus without), in standard deviations	0.10331	0.75228
+mutations	PAPOLG	expression	VNN1	-0.70632	difference of means (with minus without), in standard deviations	0.10331	0.75228
+mutations	ARMC4	expression	NDNF	0.7639	difference of means (with minus without), in standard deviations	0.10331	0.75228
+mutations	VHL	expression	GDA	0.27885	difference of means (with minus without), in standard deviations	0.10485	0.75966
+mutations	PBRM1	expression	IGHG2	-0.22691	difference of means (with minus without), in standard deviations	0.10485	0.75966
+mutations	BAP1	expression	SCGN	-0.57237	difference of means (with minus without), in standard deviations	0.10524	0.75966
+mutations	HMCN1	expression	SLC22A2	0.5403	difference of means (with minus without), in standard deviations	0.10559	0.75966
+mutations	HMCN1	expression	VNN1	0.94444	difference of means (with minus without), in standard deviations	0.10559	0.75966
+mutations	ARID1A	expression	SLC5A1	0.76488	difference of means (with minus without), in standard deviations	0.10671	0.76241
+mutations	MYCBP2	expression	SLC6A19	-0.52907	difference of means (with minus without), in standard deviations	0.10671	0.76241
+mutations	VHL	expression	MTND4P12	-0.29352	difference of means (with minus without), in standard deviations	0.10784	0.76241
+mutations	ROS1	expression	LBP	0.81845	difference of means (with minus without), in standard deviations	0.10791	0.76241
+mutations	LRP2	expression	SYT13	-0.74423	difference of means (with minus without), in standard deviations	0.10876	0.76241
+mutations	KMT2C	expression	GDA	-0.70606	difference of means (with minus without), in standard deviations	0.10917	0.76241
+mutations	PBRM1	expression	SLC4A1	-0.3649	difference of means (with minus without), in standard deviations	0.10936	0.76241
+mutations	VHL	expression	IGHM	0.25114	difference of means (with minus without), in standard deviations	0.10937	0.76241
+mutations	VHL	expression	SPON1	0.31493	difference of means (with minus without), in standard deviations	0.10937	0.76241
+mutations	PBRM1	expression	PROM1	-0.33897	difference of means (with minus without), in standard deviations	0.10937	0.76241
+mutations	PBRM1	expression	MIOX	0.31347	difference of means (with minus without), in standard deviations	0.10937	0.76241
+mutations	SMARCA4	expression	AC079466.1	-0.74859	difference of means (with minus without), in standard deviations	0.11001	0.76241
+mutations	MACF1	expression	IGKV1-5	-0.64355	difference of means (with minus without), in standard deviations	0.11018	0.76241
+mutations	FBN2	expression	IGHA1	-0.61292	difference of means (with minus without), in standard deviations	0.11018	0.76241
+mutations	TP53	expression	IGLV1-40	-0.5875	difference of means (with minus without), in standard deviations	0.11018	0.76241
+mutations	ROS1	expression	RBP4	0.64246	difference of means (with minus without), in standard deviations	0.11091	0.76241
+mutations	CSMD3	expression	KRT19	0.74397	difference of means (with minus without), in standard deviations	0.11199	0.76241
+mutations	LRP2	expression	SLC6A3	0.35531	difference of means (with minus without), in standard deviations	0.11199	0.76241
+mutations	NEB	expression	SCGN	-0.63784	difference of means (with minus without), in standard deviations	0.11199	0.76241
+mutations	SPEN	expression	IGHM	0.814	difference of means (with minus without), in standard deviations	0.11199	0.76241
+mutations	SPEN	expression	NDNF	0.79997	difference of means (with minus without), in standard deviations	0.11199	0.76241
+mutations	UTRN	expression	SORCS3	0.7137	difference of means (with minus without), in standard deviations	0.11373	0.76241
+mutations	MACF1	expression	PRIMA1	0.63679	difference of means (with minus without), in standard deviations	0.11375	0.76241
+mutations	MYCBP2	expression	IGKV4-1	0.75825	difference of means (with minus without), in standard deviations	0.11375	0.76241
+mutations	MACF1	expression	IGLV1-40	-0.64636	difference of means (with minus without), in standard deviations	0.11375	0.76241
+mutations	UTRN	expression	NPTX2	0.68833	difference of means (with minus without), in standard deviations	0.11375	0.76241
+mutations	LRRCC1	expression	PNCK	0.7549	difference of means (with minus without), in standard deviations	0.11375	0.76241
+mutations	VHL	expression	IGHG3	0.32325	difference of means (with minus without), in standard deviations	0.11404	0.76241
+mutations	MTOR	expression	MTND4P12	0.47874	difference of means (with minus without), in standard deviations	0.11522	0.76241
+mutations	HMCN1	expression	IGHG3	0.66806	difference of means (with minus without), in standard deviations	0.11531	0.76241
+mutations	TTN	expression	DDX3Y	-0.37222	difference of means (with minus without), in standard deviations	0.11538	0.76241
+mutations	VHL	expression	IGHA2	0.30654	difference of means (with minus without), in standard deviations	0.11563	0.76241
+mutations	BAP1	expression	DDX3Y	-0.63755	difference of means (with minus without), in standard deviations	0.11622	0.76241
+mutations	BAP1	expression	USP9Y	-0.51946	difference of means (with minus without), in standard deviations	0.11622	0.76241
+mutations	ZFHX4	expression	DDX3Y	-0.74888	difference of means (with minus without), in standard deviations	0.11701	0.76241
+mutations	AHNAK2	expression	NPTX2	-0.61179	difference of means (with minus without), in standard deviations	0.11709	0.76241
+mutations	KMT2C	expression	SLC17A3	-0.44789	difference of means (with minus without), in standard deviations	0.1174	0.76241
+mutations	ARID1A	expression	FGG	0.44381	difference of means (with minus without), in standard deviations	0.11741	0.76241
+mutations	ZFHX4	expression	AOC1	-1.2153	difference of means (with minus without), in standard deviations	0.11741	0.76241
+mutations	ZFHX4	expression	GSTA2	-0.96054	difference of means (with minus without), in standard deviations	0.11741	0.76241
+mutations	MYCBP2	expression	SLC6A3	-1.0105	difference of means (with minus without), in standard deviations	0.11741	0.76241
+mutations	MACF1	expression	PIGR	-0.67326	difference of means (with minus without), in standard deviations	0.11741	0.76241
+mutations	MACF1	expression	IGLV3-19	-0.64373	difference of means (with minus without), in standard deviations	0.11741	0.76241
+mutations	TP53	expression	SPON1	-0.82824	difference of means (with minus without), in standard deviations	0.11741	0.76241
+mutations	UTRN	expression	HP	-0.55019	difference of means (with minus without), in standard deviations	0.11741	0.76241
+mutations	SETD2	expression	PCK1	-0.39339	difference of means (with minus without), in standard deviations	0.11768	0.76252
+mutations	PBRM1	expression	CERNA2	0.17979	difference of means (with minus without), in standard deviations	0.11805	0.76324
+mutations	HMCN1	expression	SLC5A1	0.67205	difference of means (with minus without), in standard deviations	0.1187	0.76347
+mutations	VHL	expression	GRIA4	0.30109	difference of means (with minus without), in standard deviations	0.11887	0.76347
+mutations	BAP1	expression	PNCK	-0.5533	difference of means (with minus without), in standard deviations	0.11961	0.76347
+mutations	KDM5C	expression	KRT19	0.52918	difference of means (with minus without), in standard deviations	0.11961	0.76347
+mutations	ROS1	expression	SLC34A2	0.60047	difference of means (with minus without), in standard deviations	0.12028	0.76347
+mutations	ROS1	expression	LGALS4	0.29359	difference of means (with minus without), in standard deviations	0.12028	0.76347
+mutations	ROS1	expression	MMP7	0.69423	difference of means (with minus without), in standard deviations	0.12028	0.76347
+mutations	UTRN	expression	LBP	-0.54798	difference of means (with minus without), in standard deviations	0.12116	0.76347
+mutations	MACF1	expression	IGHM	-0.55192	difference of means (with minus without), in standard deviations	0.12116	0.76347
+mutations	PAPOLG	expression	IGHA1	-0.68566	difference of means (with minus without), in standard deviations	0.12116	0.76347
+mutations	HMCN1	expression	PLG	0.67199	difference of means (with minus without), in standard deviations	0.12215	0.76347
+mutations	NEB	expression	PAH	-0.59439	difference of means (with minus without), in standard deviations	0.12216	0.76347
+mutations	HMCN1	expression	IGHV5-51	0.85111	difference of means (with minus without), in standard deviations	0.12216	0.76347
+mutations	CSMD3	expression	AOC1	-0.96479	difference of means (with minus without), in standard deviations	0.12216	0.76347
+mutations	DNAH2	expression	SYT13	-0.60529	difference of means (with minus without), in standard deviations	0.12216	0.76347
+mutations	NEB	expression	SLC6A3	-0.81602	difference of means (with minus without), in standard deviations	0.12216	0.76347
+mutations	KDM5C	expression	KDM5D	0.7226	difference of means (with minus without), in standard deviations	0.12241	0.76347
+mutations	TTN	expression	AC079466.1	0.31808	difference of means (with minus without), in standard deviations	0.12289	0.76485
+mutations	SETD2	expression	SST	0.46283	difference of means (with minus without), in standard deviations	0.12483	0.76687
+mutations	MACF1	expression	IGKC	-0.63703	difference of means (with minus without), in standard deviations	0.125	0.76687
+mutations	TP53	expression	NDNF	-0.44633	difference of means (with minus without), in standard deviations	0.125	0.76687
+mutations	UTRN	expression	REN	-0.71779	difference of means (with minus without), in standard deviations	0.125	0.76687
+mutations	LRP1B	expression	SCGN	-0.64499	difference of means (with minus without), in standard deviations	0.125	0.76687
+mutations	ARMC4	expression	PNCK	0.69089	difference of means (with minus without), in standard deviations	0.125	0.76687
+mutations	VHL	expression	ALDOB	0.34016	difference of means (with minus without), in standard deviations	0.12555	0.76687
+mutations	SPEN	expression	ENPP3	-0.40108	difference of means (with minus without), in standard deviations	0.12571	0.76687
+mutations	HMCN1	expression	IGLV3-21	0.97483	difference of means (with minus without), in standard deviations	0.12571	0.76687
+mutations	BAP1	expression	SLC5A8	-0.55227	difference of means (with minus without), in standard deviations	0.12577	0.76687
+mutations	MACF1	expression	IGKV3-20	-0.67278	difference of means (with minus without), in standard deviations	0.12696	0.76903
+mutations	FBN2	expression	KDM5D	0.67084	difference of means (with minus without), in standard deviations	0.12869	0.76903
+mutations	MACF1	expression	REG1A	-0.69056	difference of means (with minus without), in standard deviations	0.12894	0.76903
+mutations	ARMC4	expression	PAH	0.75763	difference of means (with minus without), in standard deviations	0.12894	0.76903
+mutations	TP53	expression	C7	-0.66029	difference of means (with minus without), in standard deviations	0.12894	0.76903
+mutations	LRP2	expression	SLC4A1	-0.30061	difference of means (with minus without), in standard deviations	0.12934	0.76903
+mutations	DNAH2	expression	SLC5A8	-0.6786	difference of means (with minus without), in standard deviations	0.12934	0.76903
+mutations	NEB	expression	SPON1	-0.77605	difference of means (with minus without), in standard deviations	0.12934	0.76903
+mutations	PBRM1	methylation	cg16783349	0.69655	difference of means (with minus without), in standard deviations	0.00012737	0.1993
+mutations	PBRM1	methylation	cg16034168	0.76138	difference of means (with minus without), in standard deviations	0.00013287	0.1993
+mutations	TP53	methylation	cg21333861	-1.1411	difference of means (with minus without), in standard deviations	0.00082223	0.55035
+mutations	KMT2C	methylation	cg10220809	1.0166	difference of means (with minus without), in standard deviations	0.001356	0.55035
+mutations	SETD2	methylation	cg15167871	0.93957	difference of means (with minus without), in standard deviations	0.0015565	0.55035
+mutations	KDM5C	methylation	cg19308375	-1.0955	difference of means (with minus without), in standard deviations	0.0016631	0.55035
+mutations	PBRM1	methylation	cg19351954	0.59334	difference of means (with minus without), in standard deviations	0.001751	0.55035
+mutations	KMT2C	methylation	cg23097686	0.37689	difference of means (with minus without), in standard deviations	0.0017724	0.55035
+mutations	SETD2	methylation	cg16783349	0.8784	difference of means (with minus without), in standard deviations	0.0018131	0.55035
+mutations	TP53	methylation	cg19664267	-1.1021	difference of means (with minus without), in standard deviations	0.0018345	0.55035
+mutations	FBN2	methylation	cg19486070	1.0382	difference of means (with minus without), in standard deviations	0.0020421	0.55695
+mutations	NEB	methylation	cg09289202	1.1937	difference of means (with minus without), in standard deviations	0.0024765	0.56019
+mutations	PAPOLG	methylation	cg22046408	1.3812	difference of means (with minus without), in standard deviations	0.0026561	0.56019
+mutations	TTN	methylation	cg25789370	0.66244	difference of means (with minus without), in standard deviations	0.0028958	0.56019
+mutations	ZFHX4	methylation	cg19092981	1.5011	difference of means (with minus without), in standard deviations	0.0036136	0.56019
+mutations	HMCN1	methylation	cg03189821	1.3454	difference of means (with minus without), in standard deviations	0.0037847	0.56019
+mutations	ZFHX4	methylation	cg09776772	0.95103	difference of means (with minus without), in standard deviations	0.0040979	0.56019
+mutations	AHNAK2	methylation	cg23221052	1.1131	difference of means (with minus without), in standard deviations	0.0045538	0.56019
+mutations	TP53	methylation	cg05385718	0.99139	difference of means (with minus without), in standard deviations	0.0047561	0.56019
+mutations	PBRM1	methylation	cg22731271	0.50582	difference of means (with minus without), in standard deviations	0.0049332	0.56019
+mutations	SMARCA4	methylation	cg05593887	1.0258	difference of means (with minus without), in standard deviations	0.00512	0.56019
+mutations	LRP2	methylation	cg12908916	0.92352	difference of means (with minus without), in standard deviations	0.0054449	0.56019
+mutations	FBN2	methylation	cg17561891	-0.45216	difference of means (with minus without), in standard deviations	0.0055089	0.56019
+mutations	ARMC4	methylation	cg22614142	1.1541	difference of means (with minus without), in standard deviations	0.0056432	0.56019
+mutations	VHL	methylation	cg01893212	0.5248	difference of means (with minus without), in standard deviations	0.005728	0.56019
+mutations	TP53	methylation	cg00494919	0.864	difference of means (with minus without), in standard deviations	0.0057831	0.56019
+mutations	MYCBP2	methylation	cg08840441	1.2602	difference of means (with minus without), in standard deviations	0.0059251	0.56019
+mutations	PAPOLG	methylation	cg19486070	1.0114	difference of means (with minus without), in standard deviations	0.0060696	0.56019
+mutations	KMT2C	methylation	cg10554839	0.83282	difference of means (with minus without), in standard deviations	0.0062542	0.56019
+mutations	KMT2C	methylation	cg04571941	0.63026	difference of means (with minus without), in standard deviations	0.0064867	0.56019
+mutations	ZFHX4	methylation	cg04571941	0.61482	difference of means (with minus without), in standard deviations	0.0065218	0.56019
+mutations	AHNAK2	methylation	cg13944838	1.0808	difference of means (with minus without), in standard deviations	0.0067555	0.56019
+mutations	CENPF	methylation	cg08941173	-1.0455	difference of means (with minus without), in standard deviations	0.0068414	0.56019
+mutations	ZFHX4	methylation	cg18543270	-0.76079	difference of means (with minus without), in standard deviations	0.0071739	0.56019
+mutations	TTN	methylation	cg20256117	0.66777	difference of means (with minus without), in standard deviations	0.0074617	0.56019
+mutations	AHNAK2	methylation	cg08840441	1.0686	difference of means (with minus without), in standard deviations	0.0074756	0.56019
+mutations	PBRM1	methylation	cg25968569	0.54899	difference of means (with minus without), in standard deviations	0.007995	0.56019
+mutations	KMT2C	methylation	cg16602369	0.82925	difference of means (with minus without), in standard deviations	0.0080532	0.56019
+mutations	AHNAK2	methylation	cg02891314	1.0563	difference of means (with minus without), in standard deviations	0.0080999	0.56019
+mutations	SETD2	methylation	cg08409113	0.81125	difference of means (with minus without), in standard deviations	0.0086011	0.56019
+mutations	DNAH2	methylation	cg19351954	0.95089	difference of means (with minus without), in standard deviations	0.0087978	0.56019
+mutations	KDM5C	methylation	cg05098566	-0.98864	difference of means (with minus without), in standard deviations	0.0088619	0.56019
+mutations	BAP1	methylation	cg08322244	0.99248	difference of means (with minus without), in standard deviations	0.0090284	0.56019
+mutations	TP53	methylation	cg23221052	1.0708	difference of means (with minus without), in standard deviations	0.0090655	0.56019
+mutations	PAPOLG	methylation	cg25873514	1.0572	difference of means (with minus without), in standard deviations	0.0090655	0.56019
+mutations	SETD2	methylation	cg19351954	0.76079	difference of means (with minus without), in standard deviations	0.0093847	0.56019
+mutations	ZFHX4	methylation	cg10220809	1.2691	difference of means (with minus without), in standard deviations	0.0094931	0.56019
+mutations	PAPOLG	methylation	cg26708220	1.1758	difference of means (with minus without), in standard deviations	0.0094937	0.56019
+mutations	TP53	methylation	cg09776772	0.94221	difference of means (with minus without), in standard deviations	0.0099393	0.56019
+mutations	TP53	methylation	cg25780607	-1.1895	difference of means (with minus without), in standard deviations	0.0099395	0.56019
+mutations	BAP1	methylation	cg16602369	0.79622	difference of means (with minus without), in standard deviations	0.010271	0.56019
+mutations	KMT2C	methylation	cg22621695	0.99365	difference of means (with minus without), in standard deviations	0.010851	0.56019
+mutations	BAP1	methylation	cg12483545	1.0034	difference of means (with minus without), in standard deviations	0.010851	0.56019
+mutations	KDM5C	methylation	cg01252526	0.91933	difference of means (with minus without), in standard deviations	0.010851	0.56019
+mutations	NEB	methylation	cg22614142	1.1309	difference of means (with minus without), in standard deviations	0.010855	0.56019
+mutations	ZFHX4	methylation	cg18430555	1.1845	difference of means (with minus without), in standard deviations	0.010886	0.56019
+mutations	MACF1	methylation	cg16389901	1.2599	difference of means (with minus without), in standard deviations	0.010886	0.56019
+mutations	PAPOLG	methylation	cg06546677	1.1211	difference of means (with minus without), in standard deviations	0.010887	0.56019
+mutations	SPEN	methylation	cg04131969	-1.1314	difference of means (with minus without), in standard deviations	0.011317	0.56019
+mutations	TP53	methylation	cg23248424	0.98263	difference of means (with minus without), in standard deviations	0.01139	0.56019
+mutations	MYCBP2	methylation	cg12483545	1.3803	difference of means (with minus without), in standard deviations	0.011391	0.56019
+mutations	PAPOLG	methylation	cg00281273	1.1865	difference of means (with minus without), in standard deviations	0.011914	0.57042
+mutations	AHNAK2	methylation	cg14159672	1.0579	difference of means (with minus without), in standard deviations	0.011979	0.57042
+mutations	NEB	methylation	cg20756026	-0.85231	difference of means (with minus without), in standard deviations	0.012291	0.57613
+mutations	DNAH2	methylation	cg22046408	-0.92876	difference of means (with minus without), in standard deviations	0.012545	0.57898
+mutations	BAP1	methylation	cg08840441	0.91787	difference of means (with minus without), in standard deviations	0.012994	0.58324
+mutations	MACF1	methylation	cg18232235	-1.2916	difference of means (with minus without), in standard deviations	0.013026	0.58324
+mutations	TTN	methylation	cg08398691	0.56798	difference of means (with minus without), in standard deviations	0.013549	0.5848
+mutations	PBRM1	methylation	cg10400707	0.51893	difference of means (with minus without), in standard deviations	0.013946	0.5848
+mutations	TP53	methylation	cg18543270	-0.75667	difference of means (with minus without), in standard deviations	0.014229	0.5848
+mutations	UTRN	methylation	cg08398691	-1.1333	difference of means (with minus without), in standard deviations	0.014229	0.5848
+mutations	ZFHX4	methylation	cg07363137	1.0325	difference of means (with minus without), in standard deviations	0.01423	0.5848
+mutations	ARMC4	methylation	cg25789370	-1.0823	difference of means (with minus without), in standard deviations	0.01423	0.5848
+mutations	FBN2	methylation	cg10554839	-0.73759	difference of means (with minus without), in standard deviations	0.014866	0.59109
+mutations	BAP1	methylation	cg01885839	0.95767	difference of means (with minus without), in standard deviations	0.01497	0.59109
+mutations	KMT2C	methylation	cg22046408	-0.85184	difference of means (with minus without), in standard deviations	0.014974	0.59109
+mutations	FBN2	methylation	cg22621695	-0.94506	difference of means (with minus without), in standard deviations	0.015193	0.59193
+mutations	AHNAK2	methylation	cg17178900	0.86372	difference of means (with minus without), in standard deviations	0.015597	0.5968
+mutations	TP53	methylation	cg13944838	1.0066	difference of means (with minus without), in standard deviations	0.016218	0.5968
+mutations	UTRN	methylation	cg09776772	-1.1934	difference of means (with minus without), in standard deviations	0.016218	0.5968
+mutations	LRP2	methylation	cg08941173	-0.90107	difference of means (with minus without), in standard deviations	0.016301	0.5968
+mutations	SETD2	methylation	cg05348366	-0.62342	difference of means (with minus without), in standard deviations	0.01689	0.5968
+mutations	FBN2	methylation	cg16602369	-0.70842	difference of means (with minus without), in standard deviations	0.016932	0.5968
+mutations	SETD2	methylation	cg20256117	-0.61425	difference of means (with minus without), in standard deviations	0.017586	0.5968
+mutations	TP53	methylation	cg02891314	1.0024	difference of means (with minus without), in standard deviations	0.017676	0.5968
+mutations	KMT2C	methylation	cg09776772	0.5923	difference of means (with minus without), in standard deviations	0.017945	0.5968
+mutations	PAPOLG	methylation	cg05593887	-1.1174	difference of means (with minus without), in standard deviations	0.018057	0.5968
+mutations	MYCBP2	methylation	cg00281273	0.92348	difference of means (with minus without), in standard deviations	0.018058	0.5968
+mutations	TTN	methylation	cg14288281	0.55475	difference of means (with minus without), in standard deviations	0.0181	0.5968
+mutations	TTN	methylation	cg15532640	0.56761	difference of means (with minus without), in standard deviations	0.018101	0.5968
+mutations	BAP1	methylation	cg16783349	0.79282	difference of means (with minus without), in standard deviations	0.018116	0.5968
+mutations	SMARCA4	methylation	cg22731271	-0.96577	difference of means (with minus without), in standard deviations	0.018447	0.5968
+mutations	SETD2	methylation	cg20756026	-0.70888	difference of means (with minus without), in standard deviations	0.018806	0.5968
+mutations	KDM5C	methylation	cg01543583	-0.89986	difference of means (with minus without), in standard deviations	0.01907	0.5968
+mutations	NEB	methylation	cg01885839	1.0104	difference of means (with minus without), in standard deviations	0.019077	0.5968
+mutations	SETD2	methylation	cg08866780	-0.18666	difference of means (with minus without), in standard deviations	0.019309	0.5968
+mutations	KMT2C	methylation	cg20545544	0.1977	difference of means (with minus without), in standard deviations	0.019452	0.5968
+mutations	PBRM1	methylation	cg01893212	0.30308	difference of means (with minus without), in standard deviations	0.019587	0.5968
+mutations	BAP1	methylation	cg11104088	0.84582	difference of means (with minus without), in standard deviations	0.020066	0.5968
+mutations	FBN2	methylation	cg23057992	1.0946	difference of means (with minus without), in standard deviations	0.020075	0.5968
+mutations	KMT2C	methylation	cg17375167	0.85787	difference of means (with minus without), in standard deviations	0.020092	0.5968
+mutations	NEB	methylation	cg11738485	0.67718	difference of means (with minus without), in standard deviations	0.02061	0.60618
+mutations	ZFHX4	methylation	cg07376381	0.99108	difference of means (with minus without), in standard deviations	0.020939	0.60824
+mutations	TTN	methylation	cg10400707	0.4677	difference of means (with minus without), in standard deviations	0.021086	0.60824
+mutations	UTRN	methylation	cg23097686	-1.7387	difference of means (with minus without), in standard deviations	0.021817	0.61792
+mutations	ARID1A	methylation	cg12019614	-0.90694	difference of means (with minus without), in standard deviations	0.021833	0.61792
+mutations	MYCBP2	methylation	cg18430555	1.1725	difference of means (with minus without), in standard deviations	0.022291	0.62499
+mutations	PAPOLG	methylation	cg10400707	0.918	difference of means (with minus without), in standard deviations	0.023235	0.6422
+mutations	BAP1	methylation	cg19092981	0.6492	difference of means (with minus without), in standard deviations	0.023333	0.6422
+mutations	MACF1	methylation	cg20256117	1.0845	difference of means (with minus without), in standard deviations	0.023719	0.6437
+mutations	LRP2	methylation	cg18430555	-0.69442	difference of means (with minus without), in standard deviations	0.02401	0.6437
+mutations	AHNAK2	methylation	cg23248424	0.99629	difference of means (with minus without), in standard deviations	0.02449	0.6437
+mutations	FBN2	methylation	cg25873514	0.83529	difference of means (with minus without), in standard deviations	0.024716	0.6437
+mutations	TP53	methylation	cg16208084	-0.7297	difference of means (with minus without), in standard deviations	0.024716	0.6437
+mutations	BAP1	methylation	cg10220809	0.55822	difference of means (with minus without), in standard deviations	0.024927	0.6437
+mutations	HMCN1	methylation	cg12466610	-0.63675	difference of means (with minus without), in standard deviations	0.024932	0.6437
+mutations	DNAH2	methylation	cg01893212	-0.8487	difference of means (with minus without), in standard deviations	0.025405	0.6437
+mutations	LRP1B	methylation	cg27449836	-0.58597	difference of means (with minus without), in standard deviations	0.025744	0.6437
+mutations	CENPF	methylation	cg12515659	-1.3074	difference of means (with minus without), in standard deviations	0.025747	0.6437
+mutations	UTRN	methylation	cg19092981	-0.87438	difference of means (with minus without), in standard deviations	0.025748	0.6437
+mutations	CSMD3	methylation	cg05385718	0.72205	difference of means (with minus without), in standard deviations	0.026372	0.65386
+mutations	TP53	methylation	cg01754525	1.0228	difference of means (with minus without), in standard deviations	0.026817	0.65942
+mutations	BAP1	methylation	cg25873514	-0.86871	difference of means (with minus without), in standard deviations	0.027495	0.66372
+mutations	PBRM1	methylation	cg07141605	-0.46174	difference of means (with minus without), in standard deviations	0.027613	0.66372
+mutations	ROS1	methylation	cg19664267	0.94301	difference of means (with minus without), in standard deviations	0.027655	0.66372
+mutations	DNAH2	methylation	cg12744031	-0.75135	difference of means (with minus without), in standard deviations	0.028405	0.66395
+mutations	UTRN	methylation	cg18141400	-1.273	difference of means (with minus without), in standard deviations	0.028488	0.66395
+mutations	KDM5C	methylation	cg24231558	0.77414	difference of means (with minus without), in standard deviations	0.028863	0.66395
+mutations	TP53	methylation	cg04571941	0.60732	difference of means (with minus without), in standard deviations	0.029066	0.66395
+mutations	SMARCA4	methylation	cg16208084	-0.94901	difference of means (with minus without), in standard deviations	0.029069	0.66395
+mutations	NEB	methylation	cg13641185	0.90718	difference of means (with minus without), in standard deviations	0.029468	0.66395
+mutations	CENPF	methylation	cg18141400	0.65616	difference of means (with minus without), in standard deviations	0.029654	0.66395
+mutations	PAPOLG	methylation	cg04131969	-1.0041	difference of means (with minus without), in standard deviations	0.029655	0.66395
+mutations	TP53	methylation	cg14288281	-0.66129	difference of means (with minus without), in standard deviations	0.029656	0.66395
+mutations	PAPOLG	methylation	cg11738485	1.0197	difference of means (with minus without), in standard deviations	0.030252	0.67228
+mutations	TTN	methylation	cg17561891	0.49516	difference of means (with minus without), in standard deviations	0.030999	0.67797
+mutations	ZFHX4	methylation	cg23097686	0.3606	difference of means (with minus without), in standard deviations	0.031462	0.67797
+mutations	SETD2	methylation	cg19664267	-0.60422	difference of means (with minus without), in standard deviations	0.031494	0.67797
+mutations	MUC16	methylation	cg08840441	0.72913	difference of means (with minus without), in standard deviations	0.031698	0.67797
+mutations	FBN2	methylation	cg27449836	-0.58381	difference of means (with minus without), in standard deviations	0.032748	0.67797
+mutations	AHNAK2	methylation	cg11965913	0.97181	difference of means (with minus without), in standard deviations	0.0328	0.67797
+mutations	PBRM1	methylation	cg08398691	0.28391	difference of means (with minus without), in standard deviations	0.03316	0.67797
+mutations	KDM5C	methylation	cg07141605	-0.80362	difference of means (with minus without), in standard deviations	0.033323	0.67797
+mutations	SETD2	methylation	cg25789370	-0.56047	difference of means (with minus without), in standard deviations	0.033933	0.67797
+mutations	LRP1B	methylation	cg12662576	-0.48221	difference of means (with minus without), in standard deviations	0.034059	0.67797
+mutations	ZFHX4	methylation	cg06946452	0.86501	difference of means (with minus without), in standard deviations	0.034064	0.67797
+mutations	TP53	methylation	cg15084390	-0.72322	difference of means (with minus without), in standard deviations	0.034066	0.67797
+mutations	FBN2	methylation	cg01252526	0.95352	difference of means (with minus without), in standard deviations	0.034067	0.67797
+mutations	BAP1	methylation	cg16208084	0.58718	difference of means (with minus without), in standard deviations	0.03439	0.67797
+mutations	KDM5C	methylation	cg01925738	0.7272	difference of means (with minus without), in standard deviations	0.034391	0.67797
+mutations	KDM5C	methylation	cg23192683	-0.78808	difference of means (with minus without), in standard deviations	0.034391	0.67797
+mutations	MTOR	methylation	cg01252526	-0.53465	difference of means (with minus without), in standard deviations	0.035246	0.67797
+mutations	TP53	methylation	cg03189821	1.0937	difference of means (with minus without), in standard deviations	0.035425	0.67797
+mutations	ZFHX4	methylation	cg16017089	1.1061	difference of means (with minus without), in standard deviations	0.035425	0.67797
+mutations	MYCBP2	methylation	cg14204784	-0.96725	difference of means (with minus without), in standard deviations	0.035425	0.67797
+mutations	FBN2	methylation	cg20756026	-0.99275	difference of means (with minus without), in standard deviations	0.035425	0.67797
+mutations	KMT2C	methylation	cg27449836	0.56852	difference of means (with minus without), in standard deviations	0.035569	0.67797
+mutations	PBRM1	methylation	cg08840441	-0.42731	difference of means (with minus without), in standard deviations	0.035817	0.67797
+mutations	CSMD3	methylation	cg01252526	-0.86619	difference of means (with minus without), in standard deviations	0.035968	0.67797
+mutations	MUC16	methylation	cg12483545	0.66996	difference of means (with minus without), in standard deviations	0.036339	0.67797
+mutations	PBRM1	methylation	cg25789370	-0.39659	difference of means (with minus without), in standard deviations	0.036431	0.67797
+mutations	CENPF	methylation	cg13305186	-1.1839	difference of means (with minus without), in standard deviations	0.036828	0.67797
+mutations	NEB	methylation	cg00281273	0.84562	difference of means (with minus without), in standard deviations	0.037271	0.67797
+mutations	DNAH2	methylation	cg01543583	-0.98215	difference of means (with minus without), in standard deviations	0.037272	0.67797
+mutations	MUC16	methylation	cg04646987	-0.68816	difference of means (with minus without), in standard deviations	0.037333	0.67797
+mutations	BAP1	methylation	cg15167871	0.81193	difference of means (with minus without), in standard deviations	0.037769	0.67797
+mutations	NEB	methylation	cg18232235	0.6663	difference of means (with minus without), in standard deviations	0.037936	0.67797
+mutations	SMARCA4	methylation	cg18232235	-1.036	difference of means (with minus without), in standard deviations	0.038279	0.67797
+mutations	TP53	methylation	cg14204784	-0.99477	difference of means (with minus without), in standard deviations	0.038281	0.67797
+mutations	NEB	methylation	cg06168050	1.0315	difference of means (with minus without), in standard deviations	0.038613	0.67797
+mutations	BAP1	methylation	cg16017089	0.77333	difference of means (with minus without), in standard deviations	0.038957	0.67797
+mutations	LRP2	methylation	cg06168050	-0.54461	difference of means (with minus without), in standard deviations	0.0393	0.67797
+mutations	ZFHX4	methylation	cg19664267	-0.69547	difference of means (with minus without), in standard deviations	0.039772	0.67797
+mutations	CENPF	methylation	cg08866780	-0.54299	difference of means (with minus without), in standard deviations	0.039773	0.67797
+mutations	TP53	methylation	cg22046408	-0.81171	difference of means (with minus without), in standard deviations	0.03978	0.67797
+mutations	FBN2	methylation	cg07141605	-0.96265	difference of means (with minus without), in standard deviations	0.039781	0.67797
+mutations	DNAH2	methylation	cg01252526	-0.85611	difference of means (with minus without), in standard deviations	0.04	0.67797
+mutations	PAPOLG	methylation	cg01893212	1.094	difference of means (with minus without), in standard deviations	0.041329	0.67913
+mutations	TP53	methylation	cg01925738	0.69319	difference of means (with minus without), in standard deviations	0.04133	0.67913
+mutations	TP53	methylation	cg01885839	0.94742	difference of means (with minus without), in standard deviations	0.04133	0.67913
+mutations	KDM5C	methylation	cg12019614	-0.75241	difference of means (with minus without), in standard deviations	0.041427	0.67913
+mutations	CSMD3	methylation	cg01885839	0.88197	difference of means (with minus without), in standard deviations	0.041427	0.67913
+mutations	HMCN1	methylation	cg25968569	0.82144	difference of means (with minus without), in standard deviations	0.041427	0.67913
+mutations	SMARCA4	methylation	cg13641185	-0.53375	difference of means (with minus without), in standard deviations	0.042118	0.68501
+mutations	SETD2	methylation	cg21333861	-0.57313	difference of means (with minus without), in standard deviations	0.0427	0.68501
+mutations	DNAH2	methylation	cg25873514	-0.76535	difference of means (with minus without), in standard deviations	0.042895	0.68501
+mutations	ZFHX4	methylation	cg27449836	1.423	difference of means (with minus without), in standard deviations	0.042924	0.68501
+mutations	CENPF	methylation	cg17375167	-0.46318	difference of means (with minus without), in standard deviations	0.042927	0.68501
+mutations	MACF1	methylation	cg06168050	-0.54639	difference of means (with minus without), in standard deviations	0.043748	0.68653
+mutations	SMARCA4	methylation	cg12662576	0.70076	difference of means (with minus without), in standard deviations	0.044573	0.68653
+mutations	MACF1	methylation	cg14288281	0.91539	difference of means (with minus without), in standard deviations	0.044581	0.68653
+mutations	BAP1	methylation	cg17561891	0.18178	difference of means (with minus without), in standard deviations	0.044697	0.68653
+mutations	BAP1	methylation	cg01893212	0.72949	difference of means (with minus without), in standard deviations	0.044698	0.68653
+mutations	CSMD3	methylation	cg04131969	-0.88214	difference of means (with minus without), in standard deviations	0.045179	0.68653
+mutations	HMCN1	methylation	cg10400707	0.90965	difference of means (with minus without), in standard deviations	0.045181	0.68653
+mutations	KMT2C	methylation	cg17561891	0.1408	difference of means (with minus without), in standard deviations	0.045564	0.68653
+mutations	HMCN1	methylation	cg18543270	0.7365	difference of means (with minus without), in standard deviations	0.045966	0.68653
+mutations	HMCN1	methylation	cg16783349	0.81575	difference of means (with minus without), in standard deviations	0.045966	0.68653
+mutations	KDM5C	methylation	cg13305186	0.50247	difference of means (with minus without), in standard deviations	0.046067	0.68653
+mutations	FBN2	methylation	cg17375167	-0.8736	difference of means (with minus without), in standard deviations	0.046285	0.68653
+mutations	FBN2	methylation	cg19308375	-0.60742	difference of means (with minus without), in standard deviations	0.046288	0.68653
+mutations	MYCBP2	methylation	cg16017089	1.109	difference of means (with minus without), in standard deviations	0.046288	0.68653
+mutations	ROS1	methylation	cg26708220	0.86184	difference of means (with minus without), in standard deviations	0.047045	0.68653
+mutations	TTN	methylation	cg01252526	-0.43615	difference of means (with minus without), in standard deviations	0.047064	0.68653
+mutations	SETD2	methylation	cg08322244	0.53409	difference of means (with minus without), in standard deviations	0.047502	0.68653
+mutations	NEB	methylation	cg08840441	0.84751	difference of means (with minus without), in standard deviations	0.047572	0.68653
+mutations	CENPF	methylation	cg24077454	-0.27608	difference of means (with minus without), in standard deviations	0.048046	0.68653
+mutations	TP53	methylation	cg19486070	-1.213	difference of means (with minus without), in standard deviations	0.048048	0.68653
+mutations	TP53	methylation	cg06546677	-0.90053	difference of means (with minus without), in standard deviations	0.048048	0.68653
+mutations	SETD2	methylation	cg26214747	-0.054382	difference of means (with minus without), in standard deviations	0.048057	0.68653
+mutations	CSMD3	methylation	cg22731271	-0.73179	difference of means (with minus without), in standard deviations	0.049221	0.69944
+mutations	BAP1	methylation	cg06168050	0.028565	difference of means (with minus without), in standard deviations	0.049644	0.69944
+mutations	ARID1A	methylation	cg04131969	0.90328	difference of means (with minus without), in standard deviations	0.049861	0.69944
+mutations	ROS1	methylation	cg23248424	-0.80375	difference of means (with minus without), in standard deviations	0.050125	0.69944
+mutations	ROS1	methylation	cg06546677	0.77898	difference of means (with minus without), in standard deviations	0.050126	0.69944
+mutations	MUC16	methylation	cg19092981	0.72633	difference of means (with minus without), in standard deviations	0.051188	0.71094
+mutations	VHL	methylation	cg20545544	0.37466	difference of means (with minus without), in standard deviations	0.05154	0.71198
+mutations	MYCBP2	methylation	cg19092981	1.0987	difference of means (with minus without), in standard deviations	0.051737	0.71198
+mutations	MUC16	methylation	cg15532640	-0.69138	difference of means (with minus without), in standard deviations	0.052515	0.71243
+mutations	MUC16	methylation	cg15167871	0.68008	difference of means (with minus without), in standard deviations	0.052515	0.71243
+mutations	KMT2C	methylation	cg23248424	0.53116	difference of means (with minus without), in standard deviations	0.053217	0.71243
+mutations	ARID1A	methylation	cg11738485	-1.0188	difference of means (with minus without), in standard deviations	0.053665	0.71243
+mutations	ARMC4	methylation	cg16389901	0.85897	difference of means (with minus without), in standard deviations	0.053667	0.71243
+mutations	ZFHX4	methylation	cg00281273	0.67744	difference of means (with minus without), in standard deviations	0.053668	0.71243
+mutations	UTRN	methylation	cg08409113	-0.86086	difference of means (with minus without), in standard deviations	0.053668	0.71243
+mutations	SMARCA4	methylation	cg07141605	0.80696	difference of means (with minus without), in standard deviations	0.05367	0.71243
+mutations	KDM5C	methylation	cg14288281	0.64585	difference of means (with minus without), in standard deviations	0.054242	0.71686
+mutations	BAP1	methylation	cg19351954	0.72501	difference of means (with minus without), in standard deviations	0.055043	0.72388
+mutations	MUC16	methylation	cg19308375	-0.56507	difference of means (with minus without), in standard deviations	0.055256	0.72388
+mutations	ARMC4	methylation	cg18543270	0.68484	difference of means (with minus without), in standard deviations	0.055659	0.72599
+mutations	ARMC4	methylation	cg27449836	0.91635	difference of means (with minus without), in standard deviations	0.056673	0.73447
+mutations	AHNAK2	methylation	cg07376381	0.70026	difference of means (with minus without), in standard deviations	0.056799	0.73447
+mutations	LRP2	methylation	cg15652532	0.62439	difference of means (with minus without), in standard deviations	0.057253	0.73561
+mutations	KMT2C	methylation	cg13944838	0.5006	difference of means (with minus without), in standard deviations	0.057826	0.73561
+mutations	NEB	methylation	cg12483545	1.0108	difference of means (with minus without), in standard deviations	0.058213	0.73561
+mutations	KDM5C	methylation	cg20256117	0.77655	difference of means (with minus without), in standard deviations	0.058338	0.73561
+mutations	ROS1	methylation	cg04131969	-0.66309	difference of means (with minus without), in standard deviations	0.058576	0.73561
+mutations	ROS1	methylation	cg02891314	-0.80754	difference of means (with minus without), in standard deviations	0.058579	0.73561
+mutations	SMARCA4	methylation	cg07376381	-0.9291	difference of means (with minus without), in standard deviations	0.058763	0.73561
+mutations	TTN	methylation	cg19092981	0.53698	difference of means (with minus without), in standard deviations	0.059472	0.73561
+mutations	FBN2	methylation	cg10130446	-0.4798	difference of means (with minus without), in standard deviations	0.059828	0.73561
+mutations	LRP1B	methylation	cg05098566	-0.73272	difference of means (with minus without), in standard deviations	0.059829	0.73561
+mutations	UTRN	methylation	cg01885839	-0.8837	difference of means (with minus without), in standard deviations	0.05983	0.73561
+mutations	LRP1B	methylation	cg14204784	-0.88812	difference of means (with minus without), in standard deviations	0.05983	0.73561
+mutations	CSMD3	methylation	cg01925738	0.69848	difference of means (with minus without), in standard deviations	0.060166	0.73672
+mutations	ZFHX4	methylation	cg17561891	0.49226	difference of means (with minus without), in standard deviations	0.060908	0.74278
+mutations	FBN2	methylation	cg01893212	0.74264	difference of means (with minus without), in standard deviations	0.062007	0.75312
+mutations	VHL	methylation	cg11062466	0.32597	difference of means (with minus without), in standard deviations	0.062342	0.75413
+mutations	KDM5C	methylation	cg16017089	0.63058	difference of means (with minus without), in standard deviations	0.062694	0.75535
+mutations	ARID1A	methylation	cg08866780	0.54482	difference of means (with minus without), in standard deviations	0.063112	0.75735
+mutations	FBN2	methylation	cg04277327	-0.45784	difference of means (with minus without), in standard deviations	0.064243	0.75956
+mutations	FBN2	methylation	cg10220809	-0.71745	difference of means (with minus without), in standard deviations	0.064251	0.75956
+mutations	ARMC4	methylation	cg12908916	0.45202	difference of means (with minus without), in standard deviations	0.064253	0.75956
+mutations	BAP1	methylation	cg04571941	0.30326	difference of means (with minus without), in standard deviations	0.064503	0.75956
+mutations	TTN	methylation	cg12483545	0.56427	difference of means (with minus without), in standard deviations	0.065017	0.75956
+mutations	CENPF	methylation	cg06168050	-0.55573	difference of means (with minus without), in standard deviations	0.065398	0.75956
+mutations	ARID1A	methylation	cg03189821	-0.83965	difference of means (with minus without), in standard deviations	0.0654	0.75956
+mutations	VHL	methylation	cg12019614	-0.44978	difference of means (with minus without), in standard deviations	0.066328	0.75956
+mutations	DNAH2	methylation	cg16017089	0.85847	difference of means (with minus without), in standard deviations	0.066353	0.75956
+mutations	SMARCA4	methylation	cg23097686	-1.057	difference of means (with minus without), in standard deviations	0.066531	0.75956
+mutations	ARMC4	methylation	cg04131969	0.90363	difference of means (with minus without), in standard deviations	0.06656	0.75956
+mutations	MYCBP2	methylation	cg15084390	-0.8035	difference of means (with minus without), in standard deviations	0.066564	0.75956
+mutations	SETD2	methylation	cg10554839	-0.44697	difference of means (with minus without), in standard deviations	0.066829	0.75956
+mutations	PBRM1	methylation	cg15532640	0.40413	difference of means (with minus without), in standard deviations	0.066841	0.75956
+mutations	KDM5C	methylation	cg20545544	0.2953	difference of means (with minus without), in standard deviations	0.067297	0.76048
+mutations	MUC16	methylation	cg12662576	-0.22864	difference of means (with minus without), in standard deviations	0.06743	0.76048
+mutations	KDM5C	methylation	cg08322244	-0.71997	difference of means (with minus without), in standard deviations	0.068268	0.76221
+mutations	ARID1A	methylation	cg07141605	0.91142	difference of means (with minus without), in standard deviations	0.068944	0.76221
+mutations	MYCBP2	methylation	cg25789370	0.82466	difference of means (with minus without), in standard deviations	0.068944	0.76221
+mutations	ARMC4	methylation	cg08322244	-0.85571	difference of means (with minus without), in standard deviations	0.068944	0.76221
+mutations	HMCN1	methylation	cg26880493	0.67491	difference of means (with minus without), in standard deviations	0.069632	0.76221
+mutations	SETD2	methylation	cg15532640	-0.59951	difference of means (with minus without), in standard deviations	0.069843	0.76221
+mutations	AHNAK2	methylation	cg06946452	0.088231	difference of means (with minus without), in standard deviations	0.070249	0.76221
+mutations	VHL	methylation	cg19308375	-0.40535	difference of means (with minus without), in standard deviations	0.070523	0.76221
+mutations	MTOR	methylation	cg11062466	0.55926	difference of means (with minus without), in standard deviations	0.070526	0.76221
+mutations	CSMD3	methylation	cg00281273	0.80043	difference of means (with minus without), in standard deviations	0.07076	0.76221
+mutations	CSMD3	methylation	cg07376381	0.72605	difference of means (with minus without), in standard deviations	0.07076	0.76221
+mutations	NEB	methylation	cg05098566	-0.71274	difference of means (with minus without), in standard deviations	0.07076	0.76221
+mutations	CENPF	methylation	cg04277327	-0.45967	difference of means (with minus without), in standard deviations	0.071382	0.76221
+mutations	ARMC4	methylation	cg17178900	-0.91437	difference of means (with minus without), in standard deviations	0.071392	0.76221
+mutations	MACF1	methylation	cg25780607	0.7107	difference of means (with minus without), in standard deviations	0.071393	0.76221
+mutations	VHL	methylation	cg01252526	0.27359	difference of means (with minus without), in standard deviations	0.073811	0.78072
+mutations	MYCBP2	methylation	cg20256117	-0.79148	difference of means (with minus without), in standard deviations	0.073908	0.78072
+mutations	MYCBP2	methylation	cg06946452	0.42702	difference of means (with minus without), in standard deviations	0.073909	0.78072
+mutations	VHL	methylation	cg04571941	0.29871	difference of means (with minus without), in standard deviations	0.074928	0.78871
+mutations	SETD2	methylation	cg07363137	0.6281	difference of means (with minus without), in standard deviations	0.075377	0.78871
+mutations	KDM5C	methylation	cg05385718	0.57285	difference of means (with minus without), in standard deviations	0.076322	0.78871
+mutations	BAP1	methylation	cg12515659	0.70213	difference of means (with minus without), in standard deviations	0.076323	0.78871
+mutations	TP53	methylation	cg17178900	0.86138	difference of means (with minus without), in standard deviations	0.076504	0.78871
+mutations	CENPF	methylation	cg12908916	0.45374	difference of means (with minus without), in standard deviations	0.076504	0.78871
+mutations	MYCBP2	methylation	cg01885839	0.81231	difference of means (with minus without), in standard deviations	0.076505	0.78871
+mutations	BAP1	methylation	cg08398691	0.81373	difference of means (with minus without), in standard deviations	0.077384	0.78907
+mutations	VHL	methylation	cg05098566	-0.36256	difference of means (with minus without), in standard deviations	0.077802	0.78907
+mutations	NEB	methylation	cg19351954	0.73011	difference of means (with minus without), in standard deviations	0.07782	0.78907
+mutations	ZFHX4	methylation	cg18141400	-1.2251	difference of means (with minus without), in standard deviations	0.077822	0.78907
+mutations	SETD2	methylation	cg14288281	-0.50729	difference of means (with minus without), in standard deviations	0.077855	0.78907
+mutations	BAP1	methylation	cg01543583	0.61198	difference of means (with minus without), in standard deviations	0.078457	0.7925
+mutations	MACF1	methylation	cg12019614	0.8272	difference of means (with minus without), in standard deviations	0.079169	0.79701
+mutations	LRP2	methylation	cg11062466	-0.69954	difference of means (with minus without), in standard deviations	0.0803	0.803
+mutations	NEB	methylation	cg25789370	0.70755	difference of means (with minus without), in standard deviations	0.0803	0.803
+mutations	UTRN	methylation	cg18430555	-0.59745	difference of means (with minus without), in standard deviations	0.081907	0.81413
+mutations	PBRM1	methylation	cg19664267	0.37042	difference of means (with minus without), in standard deviations	0.081956	0.81413
+mutations	DNAH2	methylation	cg19092981	0.91804	difference of means (with minus without), in standard deviations	0.08284	0.81483
+mutations	NEB	methylation	cg16017089	0.83044	difference of means (with minus without), in standard deviations	0.082841	0.81483
+mutations	HMCN1	methylation	cg25780607	0.76609	difference of means (with minus without), in standard deviations	0.082841	0.81483
+mutations	ZFHX4	methylation	cg03189821	0.93314	difference of means (with minus without), in standard deviations	0.083309	0.81594
+mutations	ROS1	methylation	cg21333861	0.90359	difference of means (with minus without), in standard deviations	0.08375	0.81594
+mutations	AHNAK2	methylation	cg01754525	0.73277	difference of means (with minus without), in standard deviations	0.083769	0.81594
+mutations	TP53	methylation	cg07376381	0.65801	difference of means (with minus without), in standard deviations	0.084726	0.81875
+mutations	BAP1	methylation	cg09776772	0.39051	difference of means (with minus without), in standard deviations	0.085142	0.81875
+mutations	SPEN	methylation	cg18141400	-0.60482	difference of means (with minus without), in standard deviations	0.08544	0.81875
+mutations	SPEN	methylation	cg19351954	0.72662	difference of means (with minus without), in standard deviations	0.085445	0.81875
+mutations	MUC16	methylation	cg09776772	0.51147	difference of means (with minus without), in standard deviations	0.085695	0.81875
+mutations	MUC16	methylation	cg16017089	0.6093	difference of means (with minus without), in standard deviations	0.085696	0.81875
+mutations	SETD2	methylation	cg05098566	-0.51068	difference of means (with minus without), in standard deviations	0.086604	0.81982
+mutations	BAP1	methylation	cg16389901	0.55195	difference of means (with minus without), in standard deviations	0.087468	0.81982
+mutations	CENPF	methylation	cg10400707	0.84661	difference of means (with minus without), in standard deviations	0.08762	0.81982
+mutations	PAPOLG	methylation	cg04646987	0.42165	difference of means (with minus without), in standard deviations	0.087621	0.81982
+mutations	FBN2	methylation	cg16208084	0.80947	difference of means (with minus without), in standard deviations	0.087622	0.81982
+mutations	PAPOLG	methylation	cg09289202	0.64174	difference of means (with minus without), in standard deviations	0.087622	0.81982
+mutations	MUC16	methylation	cg11104088	0.55366	difference of means (with minus without), in standard deviations	0.087721	0.81982
+mutations	ARID1A	methylation	cg04646987	0.83558	difference of means (with minus without), in standard deviations	0.089098	0.81986
+mutations	SETD2	methylation	cg04277327	-0.49707	difference of means (with minus without), in standard deviations	0.089366	0.81986
+mutations	BAP1	methylation	cg25789370	0.60688	difference of means (with minus without), in standard deviations	0.089852	0.81986
+mutations	MYCBP2	methylation	cg19664267	-0.79834	difference of means (with minus without), in standard deviations	0.090582	0.81986
+mutations	LRP1B	methylation	cg17375167	-0.45462	difference of means (with minus without), in standard deviations	0.090592	0.81986
+mutations	FBN2	methylation	cg18232235	-0.2439	difference of means (with minus without), in standard deviations	0.090593	0.81986
+mutations	SMARCA4	methylation	cg01893212	-0.78655	difference of means (with minus without), in standard deviations	0.090594	0.81986
+mutations	TP53	methylation	cg10400707	-0.98782	difference of means (with minus without), in standard deviations	0.090594	0.81986
+mutations	UTRN	methylation	cg16783349	-0.63133	difference of means (with minus without), in standard deviations	0.090594	0.81986
+mutations	MTOR	methylation	cg08477332	-0.4836	difference of means (with minus without), in standard deviations	0.090677	0.81986
+mutations	SETD2	methylation	cg18543270	-0.33652	difference of means (with minus without), in standard deviations	0.091264	0.81986
+mutations	SETD2	methylation	cg04646987	-0.4094	difference of means (with minus without), in standard deviations	0.091265	0.81986
+mutations	AHNAK2	methylation	cg24231558	0.70209	difference of means (with minus without), in standard deviations	0.091278	0.81986
+mutations	BAP1	methylation	cg22614142	0.63379	difference of means (with minus without), in standard deviations	0.09227	0.82236
+mutations	AHNAK2	methylation	cg05385718	0.68768	difference of means (with minus without), in standard deviations	0.092578	0.82236
+mutations	VHL	methylation	cg11104088	0.31553	difference of means (with minus without), in standard deviations	0.093517	0.82236
+mutations	CENPF	methylation	cg27449836	-0.57657	difference of means (with minus without), in standard deviations	0.093641	0.82236
+mutations	CSMD3	methylation	cg19664267	-0.42688	difference of means (with minus without), in standard deviations	0.093649	0.82236
+mutations	ZFHX4	methylation	cg15084390	-0.74027	difference of means (with minus without), in standard deviations	0.09365	0.82236
+mutations	SPEN	methylation	cg18430555	0.54083	difference of means (with minus without), in standard deviations	0.09366	0.82236
+mutations	MTOR	methylation	cg16389901	0.59873	difference of means (with minus without), in standard deviations	0.093749	0.82236
+mutations	SETD2	methylation	cg25968569	0.50051	difference of means (with minus without), in standard deviations	0.096129	0.83196
+mutations	CSMD3	methylation	cg24077454	-0.34769	difference of means (with minus without), in standard deviations	0.096536	0.83196
+mutations	LRP2	methylation	cg07376381	-0.72603	difference of means (with minus without), in standard deviations	0.096538	0.83196
+mutations	ROS1	methylation	cg22614142	0.77131	difference of means (with minus without), in standard deviations	0.096566	0.83196
+mutations	AHNAK2	methylation	cg17176732	0.77899	difference of means (with minus without), in standard deviations	0.096577	0.83196
+mutations	ROS1	methylation	cg13944838	-0.79452	difference of means (with minus without), in standard deviations	0.096578	0.83196
+mutations	LRP1B	methylation	cg10400707	0.82595	difference of means (with minus without), in standard deviations	0.096785	0.83196
+mutations	PAPOLG	methylation	cg20545544	-0.6273	difference of means (with minus without), in standard deviations	0.09837	0.84041
+mutations	MTOR	methylation	cg25873514	-0.44188	difference of means (with minus without), in standard deviations	0.099062	0.84041
+mutations	ROS1	methylation	cg23221052	-0.74513	difference of means (with minus without), in standard deviations	0.099318	0.84041
+mutations	TTN	methylation	cg16783349	0.46211	difference of means (with minus without), in standard deviations	0.099463	0.84041
+mutations	PBRM1	methylation	cg12908916	0.13728	difference of means (with minus without), in standard deviations	0.099762	0.84041
+mutations	CENPF	methylation	cg10220809	-0.69458	difference of means (with minus without), in standard deviations	0.10001	0.84041
+mutations	FBN2	methylation	cg23192683	-0.82881	difference of means (with minus without), in standard deviations	0.10001	0.84041
+mutations	PAPOLG	methylation	cg01925738	0.76683	difference of means (with minus without), in standard deviations	0.10001	0.84041
+mutations	ZFHX4	methylation	cg14288281	-0.56664	difference of means (with minus without), in standard deviations	0.10165	0.84249
+mutations	MYCBP2	methylation	cg00494919	0.42132	difference of means (with minus without), in standard deviations	0.10165	0.84249
+mutations	AHNAK2	methylation	cg01925738	0.60268	difference of means (with minus without), in standard deviations	0.10212	0.84249
+mutations	TTN	methylation	cg20756026	-0.22452	difference of means (with minus without), in standard deviations	0.1022	0.84249
+mutations	SETD2	methylation	cg11104088	0.54448	difference of means (with minus without), in standard deviations	0.10223	0.84249
+mutations	NEB	methylation	cg17375167	-0.52093	difference of means (with minus without), in standard deviations	0.1025	0.84249
+mutations	CSMD3	methylation	cg16208084	-0.49627	difference of means (with minus without), in standard deviations	0.1025	0.84249
+mutations	HMCN1	methylation	cg16034168	0.67405	difference of means (with minus without), in standard deviations	0.1025	0.84249
+mutations	ARMC4	methylation	cg15084390	0.75775	difference of means (with minus without), in standard deviations	0.10331	0.84411
+mutations	AHNAK2	methylation	cg08866780	-0.54902	difference of means (with minus without), in standard deviations	0.10353	0.84411
+mutations	AHNAK2	methylation	cg00494919	0.45562	difference of means (with minus without), in standard deviations	0.10354	0.84411
+mutations	SETD2	methylation	cg01885839	0.5073	difference of means (with minus without), in standard deviations	0.10434	0.84458
+mutations	NEB	methylation	cg16034168	0.65152	difference of means (with minus without), in standard deviations	0.10559	0.84458
+mutations	PBRM1	methylation	cg25780607	0.37599	difference of means (with minus without), in standard deviations	0.10634	0.84458
+mutations	BAP1	methylation	cg04646987	-0.51104	difference of means (with minus without), in standard deviations	0.10661	0.84458
+mutations	UTRN	methylation	cg01893212	-0.69062	difference of means (with minus without), in standard deviations	0.1067	0.84458
+mutations	ZFHX4	methylation	cg08322244	0.71631	difference of means (with minus without), in standard deviations	0.10671	0.84458
+mutations	MYCBP2	methylation	cg26708220	-0.63235	difference of means (with minus without), in standard deviations	0.10671	0.84458
+mutations	BAP1	methylation	cg18430555	0.33642	difference of means (with minus without), in standard deviations	0.108	0.84458
+mutations	BAP1	methylation	cg05098566	-0.64702	difference of means (with minus without), in standard deviations	0.108	0.84458
+mutations	KDM5C	methylation	cg19092981	0.53539	difference of means (with minus without), in standard deviations	0.108	0.84458
+mutations	ZFHX4	methylation	cg05385718	0.61152	difference of means (with minus without), in standard deviations	0.10843	0.84458
+mutations	KMT2C	methylation	cg19664267	-0.34172	difference of means (with minus without), in standard deviations	0.10916	0.84458
+mutations	VHL	methylation	cg21333861	0.28408	difference of means (with minus without), in standard deviations	0.10934	0.84458
+mutations	PBRM1	methylation	cg03189821	0.31247	difference of means (with minus without), in standard deviations	0.10936	0.84458
+mutations	TTN	methylation	cg15652532	-0.29364	difference of means (with minus without), in standard deviations	0.10979	0.84458
+mutations	TTN	methylation	cg25968569	0.41396	difference of means (with minus without), in standard deviations	0.10979	0.84458
+mutations	MACF1	methylation	cg19664267	0.82154	difference of means (with minus without), in standard deviations	0.11017	0.84458
+mutations	FBN2	methylation	cg18141400	0.63725	difference of means (with minus without), in standard deviations	0.11018	0.84458
+mutations	ARMC4	methylation	cg11965913	-0.57419	difference of means (with minus without), in standard deviations	0.11018	0.84458
+mutations	SMARCA4	methylation	cg19308375	0.67314	difference of means (with minus without), in standard deviations	0.11018	0.84458
+mutations	ZFHX4	methylation	cg25780607	-0.78378	difference of means (with minus without), in standard deviations	0.11018	0.84458
+mutations	TTN	methylation	cg00281273	0.32228	difference of means (with minus without), in standard deviations	0.11176	0.84458
+mutations	TP53	methylation	cg20256117	-0.6506	difference of means (with minus without), in standard deviations	0.11195	0.84458
+mutations	ZFHX4	methylation	cg18232235	-0.73651	difference of means (with minus without), in standard deviations	0.11195	0.84458
+mutations	ARMC4	methylation	cg15167871	0.71646	difference of means (with minus without), in standard deviations	0.11196	0.84458
+mutations	PBRM1	methylation	cg21333861	0.37079	difference of means (with minus without), in standard deviations	0.11244	0.84458
+mutations	SETD2	methylation	cg16389901	0.55967	difference of means (with minus without), in standard deviations	0.11309	0.84458
+mutations	BAP1	methylation	cg23192683	-0.50133	difference of means (with minus without), in standard deviations	0.11369	0.84458
+mutations	LRRCC1	methylation	cg26880493	0.64057	difference of means (with minus without), in standard deviations	0.11375	0.84458
+mutations	ZFHX4	methylation	cg26214747	0.74267	difference of means (with minus without), in standard deviations	0.11375	0.84458
+mutations	ARMC4	methylation	cg08409113	0.72224	difference of means (with minus without), in standard deviations	0.11375	0.84458
+mutations	MYCBP2	methylation	cg15532640	-0.87615	difference of means (with minus without), in standard deviations	0.11375	0.84458
+mutations	FBN2	methylation	cg12019614	0.75866	difference of means (with minus without), in standard deviations	0.11375	0.84458
+mutations	FBN2	methylation	cg09776772	-0.80534	difference of means (with minus without), in standard deviations	0.11375	0.84458
+mutations	LRRCC1	methylation	cg07363137	-0.72432	difference of means (with minus without), in standard deviations	0.11375	0.84458
+mutations	PBRM1	methylation	cg26880493	0.4093	difference of means (with minus without), in standard deviations	0.11482	0.84458
+mutations	BAP1	methylation	cg00281273	0.58123	difference of means (with minus without), in standard deviations	0.11514	0.84458
+mutations	HMCN1	methylation	cg16389901	0.56808	difference of means (with minus without), in standard deviations	0.1153	0.84458
+mutations	CSMD3	methylation	cg19092981	0.75859	difference of means (with minus without), in standard deviations	0.11531	0.84458
+mutations	NEB	methylation	cg12662576	-0.47693	difference of means (with minus without), in standard deviations	0.11698	0.84458
+mutations	ROS1	methylation	cg18543270	0.31617	difference of means (with minus without), in standard deviations	0.11709	0.84458
+mutations	PBRM1	methylation	cg17176732	0.27392	difference of means (with minus without), in standard deviations	0.11724	0.84458
+mutations	ZFHX4	methylation	cg21333861	-0.60541	difference of means (with minus without), in standard deviations	0.11739	0.84458
+mutations	KMT2C	methylation	cg24077454	0.58599	difference of means (with minus without), in standard deviations	0.1174	0.84458
+mutations	LRRCC1	methylation	cg04131969	0.9087	difference of means (with minus without), in standard deviations	0.1174	0.84458
+mutations	ARMC4	methylation	cg20256117	0.60963	difference of means (with minus without), in standard deviations	0.1174	0.84458
+mutations	ARMC4	methylation	cg01893212	0.80257	difference of means (with minus without), in standard deviations	0.11741	0.84458
+mutations	ZFHX4	methylation	cg14204784	-0.68304	difference of means (with minus without), in standard deviations	0.11741	0.84458
+mutations	MTOR	methylation	cg21333861	0.53428	difference of means (with minus without), in standard deviations	0.11766	0.84458
+mutations	SETD2	methylation	cg24077454	-0.24473	difference of means (with minus without), in standard deviations	0.11768	0.84458
+mutations	BAP1	methylation	cg18232235	0.51601	difference of means (with minus without), in standard deviations	0.1196	0.85282
+mutations	MTOR	methylation	cg24077454	-0.55755	difference of means (with minus without), in standard deviations	0.12019	0.85282
+mutations	KMT2C	methylation	cg12662576	0.20537	difference of means (with minus without), in standard deviations	0.12023	0.85282
+mutations	KMT2C	methylation	cg01252526	0.50845	difference of means (with minus without), in standard deviations	0.12025	0.85282
+mutations	KMT2C	methylation	cg08477332	-0.59368	difference of means (with minus without), in standard deviations	0.12025	0.85282
+mutations	LRRCC1	methylation	cg23097686	-0.35126	difference of means (with minus without), in standard deviations	0.12111	0.85522
+mutations	ARID1A	methylation	cg06168050	0.72012	difference of means (with minus without), in standard deviations	0.12116	0.85522
+mutations	LRP2	methylation	cg04571941	-0.27318	difference of means (with minus without), in standard deviations	0.12216	0.85603
+mutations	DNAH2	methylation	cg16389901	0.72829	difference of means (with minus without), in standard deviations	0.12216	0.85603
+mutations	SPEN	methylation	cg08322244	0.56346	difference of means (with minus without), in standard deviations	0.12216	0.85603
+mutations	SETD2	methylation	cg13305186	-0.53988	difference of means (with minus without), in standard deviations	0.12241	0.85603
+mutations	MTOR	methylation	cg08398691	0.59696	difference of means (with minus without), in standard deviations	0.12275	0.85637
+mutations	KMT2C	methylation	cg13641185	-0.034643	difference of means (with minus without), in standard deviations	0.12314	0.85711
+mutations	PBRM1	methylation	cg19486070	0.29093	difference of means (with minus without), in standard deviations	0.12385	0.85815
+mutations	DNAH2	methylation	cg12019614	-0.22069	difference of means (with minus without), in standard deviations	0.12393	0.85815
+mutations	SMARCA4	methylation	cg05098566	0.63718	difference of means (with minus without), in standard deviations	0.125	0.85815
+mutations	ZFHX4	methylation	cg15532640	-0.77487	difference of means (with minus without), in standard deviations	0.125	0.85815
+mutations	LRP1B	methylation	cg15084390	-0.6554	difference of means (with minus without), in standard deviations	0.125	0.85815
+mutations	ZFHX4	methylation	cg16034168	0.64742	difference of means (with minus without), in standard deviations	0.125	0.85815
+mutations	ROS1	methylation	cg14288281	0.75253	difference of means (with minus without), in standard deviations	0.12686	0.86893
+mutations	MACF1	methylation	cg04571941	-0.42895	difference of means (with minus without), in standard deviations	0.12893	0.87385
+mutations	LRP1B	methylation	cg12515659	-0.64	difference of means (with minus without), in standard deviations	0.12894	0.87385
+mutations	TP53	methylation	cg08409113	0.76342	difference of means (with minus without), in standard deviations	0.12894	0.87385
+mutations	TP53	methylation	cg19308375	0.8012	difference of means (with minus without), in standard deviations	0.12894	0.87385
+mutations	MTOR	methylation	cg23097686	0.37931	difference of means (with minus without), in standard deviations	0.12926	0.87385
+mutations	NEB	methylation	cg26214747	1.0288	difference of means (with minus without), in standard deviations	0.12933	0.87385
+mutations	ROS1	methylation	cg01754525	0.57588	difference of means (with minus without), in standard deviations	0.13026	0.87804
+mutations	LRP1B	methylation	cg08866780	-0.54071	difference of means (with minus without), in standard deviations	0.13093	0.87804
+mutations	PAPOLG	methylation	cg16389901	0.72634	difference of means (with minus without), in standard deviations	0.13094	0.87804
+mutations	MUC16	methylation	cg20545544	0.50056	difference of means (with minus without), in standard deviations	0.13122	0.87804
+mutations	LRRCC1	methylation	cg21333861	0.32985	difference of means (with minus without), in standard deviations	0.13295	0.87804
+mutations	UTRN	methylation	cg17375167	0.8488	difference of means (with minus without), in standard deviations	0.13297	0.87804
+mutations	UTRN	methylation	cg05098566	0.60756	difference of means (with minus without), in standard deviations	0.13297	0.87804
+mutations	CSMD3	methylation	cg01754525	0.64647	difference of means (with minus without), in standard deviations	0.13304	0.87804
+mutations	DNAH2	methylation	cg08322244	-0.5568	difference of means (with minus without), in standard deviations	0.13304	0.87804
+mutations	MTOR	methylation	cg09776772	0.54309	difference of means (with minus without), in standard deviations	0.13338	0.87804
+mutations	ROS1	methylation	cg25780607	0.54242	difference of means (with minus without), in standard deviations	0.13373	0.87804
+mutations	KMT2C	methylation	cg02891314	0.47053	difference of means (with minus without), in standard deviations	0.13373	0.87804
+mutations	KDM5C	methylation	cg19664267	-0.41019	difference of means (with minus without), in standard deviations	0.13379	0.87804
+mutations	TTN	methylation	cg01893212	0.4075	difference of means (with minus without), in standard deviations	0.13411	0.87804
+mutations	BAP1	methylation	cg20756026	-0.38381	difference of means (with minus without), in standard deviations	0.13547	0.87804
+mutations	CSMD3	methylation	cg22614142	-0.42543	difference of means (with minus without), in standard deviations	0.13682	0.87804
+mutations	NEB	methylation	cg11104088	0.6774	difference of means (with minus without), in standard deviations	0.13683	0.87804
+mutations	SPEN	methylation	cg15532640	-0.71341	difference of means (with minus without), in standard deviations	0.13683	0.87804
+mutations	HMCN1	methylation	cg06546677	0.69669	difference of means (with minus without), in standard deviations	0.13683	0.87804
+mutations	CENPF	methylation	cg12466610	-0.29911	difference of means (with minus without), in standard deviations	0.1371	0.87804
+mutations	ARMC4	methylation	cg12466610	0.52231	difference of means (with minus without), in standard deviations	0.1371	0.87804
+mutations	SMARCA4	methylation	cg19486070	-0.76612	difference of means (with minus without), in standard deviations	0.1371	0.87804
+mutations	ARID1A	methylation	cg26708220	-0.77751	difference of means (with minus without), in standard deviations	0.13711	0.87804
+mutations	LRP1B	methylation	cg08322244	0.66023	difference of means (with minus without), in standard deviations	0.13711	0.87804
+mutations	AHNAK2	methylation	cg07141605	0.5304	difference of means (with minus without), in standard deviations	0.13727	0.87804
+mutations	BAP1	methylation	cg10554839	0.43274	difference of means (with minus without), in standard deviations	0.13882	0.88291
+mutations	SETD2	methylation	cg03189821	0.44602	difference of means (with minus without), in standard deviations	0.13883	0.88291
+mutations	TP53	methylation	cg12466610	0.67924	difference of means (with minus without), in standard deviations	0.1392	0.88291
+mutations	FBN2	methylation	cg12908916	-0.35946	difference of means (with minus without), in standard deviations	0.13921	0.88291
+mutations	MTOR	methylation	cg19664267	0.50018	difference of means (with minus without), in standard deviations	0.14036	0.88677
+mutations	DNAH2	methylation	cg23057992	-0.32235	difference of means (with minus without), in standard deviations	0.14069	0.88677
+mutations	NEB	methylation	cg12908916	-0.55784	difference of means (with minus without), in standard deviations	0.1407	0.88677
+mutations	LRRCC1	methylation	cg19664267	0.37661	difference of means (with minus without), in standard deviations	0.14132	0.8881
+mutations	SETD2	methylation	cg00281273	-0.41022	difference of means (with minus without), in standard deviations	0.1415	0.8881
+mutations	SETD2	methylation	cg22621695	-0.3644	difference of means (with minus without), in standard deviations	0.14284	0.89464
+mutations	SMARCA4	methylation	cg22046408	-0.70105	difference of means (with minus without), in standard deviations	0.14348	0.89517
+mutations	PBRM1	methylation	cg04277327	-0.1173	difference of means (with minus without), in standard deviations	0.14353	0.89517
+mutations	MTOR	methylation	cg18430555	0.22969	difference of means (with minus without), in standard deviations	0.1447	0.8973
+mutations	PBRM1	methylation	cg17178900	-0.25647	difference of means (with minus without), in standard deviations	0.14544	0.8973
+mutations	FBN2	methylation	cg08866780	-0.5348	difference of means (with minus without), in standard deviations	0.14564	0.8973
+mutations	ARID1A	methylation	cg08840441	-0.59444	difference of means (with minus without), in standard deviations	0.14566	0.8973
+mutations	MYCBP2	methylation	cg01925738	0.68989	difference of means (with minus without), in standard deviations	0.14566	0.8973
+mutations	TP53	methylation	cg23192683	0.45343	difference of means (with minus without), in standard deviations	0.14566	0.8973
+mutations	KMT2C	methylation	cg18141400	-0.70054	difference of means (with minus without), in standard deviations	0.14667	0.89981
+mutations	BAP1	methylation	cg20545544	0.29146	difference of means (with minus without), in standard deviations	0.14748	0.89981
+mutations	LRP1B	methylation	cg00494919	0.40842	difference of means (with minus without), in standard deviations	0.14786	0.89981
+mutations	UTRN	methylation	cg15167871	-0.65704	difference of means (with minus without), in standard deviations	0.14786	0.89981
+mutations	DNAH2	methylation	cg15652532	-0.72401	difference of means (with minus without), in standard deviations	0.14869	0.89981
+mutations	HMCN1	methylation	cg11104088	0.56044	difference of means (with minus without), in standard deviations	0.14869	0.89981
+mutations	KDM5C	methylation	cg00281273	-0.56866	difference of means (with minus without), in standard deviations	0.14928	0.89981
+mutations	PAPOLG	methylation	cg23097686	0.35674	difference of means (with minus without), in standard deviations	0.15004	0.89981
+mutations	ARMC4	methylation	cg14288281	0.78164	difference of means (with minus without), in standard deviations	0.15009	0.89981
+mutations	ARID1A	methylation	cg22731271	-0.7628	difference of means (with minus without), in standard deviations	0.15009	0.89981
+mutations	MACF1	methylation	cg07376381	-0.66547	difference of means (with minus without), in standard deviations	0.15009	0.89981
+mutations	PAPOLG	methylation	cg15084390	0.75744	difference of means (with minus without), in standard deviations	0.15009	0.89981
+mutations	ARID1A	methylation	cg20756026	-0.60256	difference of means (with minus without), in standard deviations	0.15009	0.89981

@@ -1,0 +1,8 @@
+check	before_fix	after_fix
+MOFA factor 1, R² with sex	0.98	0.02
+MOFA factor 1, R² with vital status	0.0	0.22
+SNF groups vs sex (adjusted Rand index)	0.3	-0.007
+SNF groups vs vital status (adjusted Rand index)	not the strongest link	0.174
+Number of SNF groups	4	2
+DIABLO stage	failed (zero-variance error)	completed
+Methylation probes on X/Y removed	0	1824

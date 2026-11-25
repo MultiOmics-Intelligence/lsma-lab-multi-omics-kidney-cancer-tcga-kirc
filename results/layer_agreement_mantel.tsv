@@ -1,0 +1,4 @@
+layer_1	layer_2	mantel_r	p_value	permutations
+expression	methylation	0.52912	0.002	499
+expression	mutations	0.068635	0.204	499
+methylation	mutations	0.040849	0.276	499

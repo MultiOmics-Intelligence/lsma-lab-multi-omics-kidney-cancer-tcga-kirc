@@ -1,0 +1,8 @@
+method	groups	agreement_with_pasting	agreement_with_known
+expression alone	2	0.805	0.183
+methylation alone	2	0.165	0.163
+mutations alone	2	0.038	0.053
+All layers pasted together	2	1	0.139
+Similarity network fusion	2	0.77	0.174
+Shared factors (MOFA)	2	0.96	0.158
+Generalised canonical correlation	2	0.96	0.158
